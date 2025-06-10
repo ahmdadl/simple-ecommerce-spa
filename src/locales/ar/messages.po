@@ -1,0 +1,1831 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/modules/profile/pages/ProfilePage.tsx:33
+msgid "Name must be at least 2 characters."
+msgstr "يجب أن يكون الاسم حرفين على الأقل."
+
+#. js-lingui-explicit-id
+#: src/modules/profile/pages/ProfilePage.tsx:36
+#: src/modules/auth/components/ResetPasswordForm.tsx:37
+#: src/modules/auth/components/RegisterForm.tsx:35
+#: src/modules/auth/components/ForgetPasswordForm.tsx:28
+msgid "Please enter a valid email address."
+msgstr "يرجى إدخال عنوان بريد إلكتروني صالح."
+
+#. js-lingui-explicit-id
+#: src/modules/profile/pages/ChangePasswordPage.tsx:25
+#: src/modules/profile/pages/ChangePasswordPage.tsx:28
+#: src/modules/auth/components/ResetPasswordForm.tsx:43
+#: src/modules/auth/components/RegisterForm.tsx:41
+msgid "Password must be at least 8 characters."
+msgstr "يجب أن تكون كلمة المرور 8 أحرف على الأقل."
+
+#. js-lingui-explicit-id
+#: src/modules/profile/pages/ChangePasswordPage.tsx:33
+#: src/modules/auth/components/ResetPasswordForm.tsx:48
+#: src/modules/auth/components/RegisterForm.tsx:49
+msgid "Passwords do not match."
+msgstr "كلمات المرور غير متطابقة."
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/parseError.ts:27
+msgid "An unexpected error occurred"
+msgstr "حدث خطأ غير متوقع"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/parseError.ts:38
+msgid "Network error occurred"
+msgstr "حدث خطأ في الشبكة"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/parseError.ts:66
+msgid "Validation failed"
+msgstr "فشل التحقق"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/parseError.ts:70
+msgid "Request failed"
+msgstr "فشل الطلب"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/methods.ts:25
+msgid "Please Wait..."
+msgstr "يرجى الانتظار..."
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/methods.ts:26
+msgid "Done"
+msgstr "تم"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/methods.ts:27
+msgid "Something went wrong"
+msgstr "حدث خطأ ما"
+
+#. js-lingui-explicit-id
+#: src/modules/checkout/utils/method.ts:11
+msgid "Please select shipping address"
+msgstr "الرجاء اختيار عنوان الشحن"
+
+#. js-lingui-explicit-id
+#: src/modules/checkout/utils/method.ts:16
+msgid "Please select payment method"
+msgstr "الرجاء اختيار طريقة الدفع"
+
+#. js-lingui-explicit-id
+#: src/modules/checkout/utils/method.ts:25
+msgid "Please upload receipt"
+msgstr "الرجاء رفع الإيصال"
+
+#. js-lingui-explicit-id
+#: src/modules/cart/components/CartCouponSection.tsx:25
+msgid "Coupon code is required"
+msgstr "كود الخصم مطلوب"
+
+#. js-lingui-explicit-id
+#: src/modules/cart/components/CartCouponSection.tsx:27
+msgid "Coupon code must be 50 characters or less"
+msgstr "يجب أن يكون كود الخصم 50 حرفًا أو أقل"
+
+#. js-lingui-explicit-id
+#: src/modules/cart/components/CartCouponSection.tsx:86
+msgid "Enter coupon code"
+msgstr "أدخل كود الخصم"
+
+#. js-lingui-explicit-id
+#: src/modules/auth/components/ResetPasswordForm.tsx:40
+msgid "Please enter a valid otp code."
+msgstr "يرجى إدخال كود OTP صالح."
+
+#. js-lingui-explicit-id
+#: src/modules/auth/components/RegisterForm.tsx:29
+msgid "First name must be at least 2 characters."
+msgstr "يجب أن يكون الاسم الأول حرفين على الأقل."
+
+#. js-lingui-explicit-id
+#: src/modules/auth/components/RegisterForm.tsx:32
+msgid "Last name must be at least 2 characters."
+msgstr "يجب أن يكون اسم العائلة حرفين على الأقل."
+
+#. js-lingui-explicit-id
+#: src/modules/auth/components/RegisterForm.tsx:45
+msgid "You must agree to the terms and conditions."
+msgstr "يجب أن توافق على الشروط والأحكام."
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:21
+msgid "Address title is required"
+msgstr "عنوان العنوان مطلوب"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:22
+msgid "First name is required"
+msgstr "الاسم الأول مطلوب"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:23
+msgid "Last name is required"
+msgstr "اسم العائلة مطلوب"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:24
+msgid "Detailed address is required"
+msgstr "العنوان التفصيلي مطلوب"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:25
+msgid "Phone number is required"
+msgstr "رقم الهاتف مطلوب"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:26
+msgid "Please enter a valid email"
+msgstr "الرجاء إدخال بريد إلكتروني صحيح"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:29
+msgid "Government selection is required"
+msgstr "اختيار المحافظة مطلوب"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:30
+msgid "City selection is required"
+msgstr "اختيار المدينة مطلوب"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:65
+msgid " This will remove all items from your wishlist. This action cannot be undone."
+msgstr "سيؤدي هذا إلى إزالة جميع العناصر من قائمة أمنياتك. لا يمكن التراجع عن هذا الإجراء."
+
+#: src/modules/orders/components/OrdersPagination.tsx:40
+msgid "'No orders found"
+msgstr "لم يتم العثور على طلبات"
+
+#. placeholder {0}: category.title
+#. placeholder {0}: faq.question
+#. placeholder {0}: faq.answer
+#: src/modules/faq/pages/FaqPage.tsx:86
+#: src/modules/faq/pages/FaqPage.tsx:100
+#: src/modules/faq/pages/FaqPage.tsx:106
+#: src/modules/core/components/LayoutShared/CategoriesSideMenu/CategoriesSideMenuContent.tsx:41
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:45
+#: src/modules/checkout/components/CheckoutPaymentMethods/CheckoutPaymentMethodRecord.tsx:50
+msgid "{0}"
+msgstr "{0}"
+
+#. placeholder {0}: brand.products_count
+#. placeholder {0}: category.products_count
+#: src/modules/home/components/Home_Brands.tsx:93
+#: src/modules/home/components/HomeCategories.tsx:43
+msgid "{0} products"
+msgstr "{0} منتجات"
+
+#. placeholder {0}: product.discounted_percentage
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:39
+msgid "{0}% OFF"
+msgstr "خصم {0}%"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:205
+#~ msgid "{currentStatus}"
+#~ msgstr "{currentStatus}"
+
+#. placeholder {0}: new Date().getFullYear()
+#. placeholder {1}: general?.name[ localeStore.getState().localeKey() ] ?? ''
+#: src/modules/core/components/Footer/Footer.tsx:283
+msgid "© {0} {1}. All rights reserved."
+msgstr "© {0} {1}. جميع الحقوق محفوظة."
+
+#: src/modules/faq/pages/FaqPage.tsx:146
+msgid "1-800-123-4567"
+msgstr "18001234567"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:84
+msgid "Access denied"
+msgstr "تم رفض الوصول"
+
+#: src/modules/orders/pages/OrdersPage.tsx:69
+msgid "Actions"
+msgstr "إجراءات"
+
+#: src/modules/addresses/pages/AddressesPage.tsx:58
+msgid "Add a new address to get started"
+msgstr "أضف عنوانًا جديدًا للبدء"
+
+#: src/modules/cart/components/CartCouponSection.tsx:73
+msgid "Add Coupon Code"
+msgstr "إضافة كود خصم"
+
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:65
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:236
+msgid "Add Funds"
+msgstr "إضافة أموال"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundPopup.tsx:24
+msgid "Add Funds to Your Wallet"
+msgstr "إضافة أموال إلى محفظتك"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:28
+msgid "Add items to your cart to see them here."
+msgstr "أضف عناصر إلى سلة التسوق الخاصة بك لرؤيتها هنا."
+
+#: src/modules/wishlist/components/WishlistItemGrid.tsx:17
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistSideMenuContent.tsx:23
+msgid "Add items to your wishlist to see them here."
+msgstr "أضف عناصر إلى قائمة أمنياتك لرؤيتها هنا."
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:53
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:63
+#: src/modules/addresses/pages/AddressesPage.tsx:26
+#: src/modules/addresses/components/CreateAddressModal.tsx:62
+msgid "Add New Address"
+msgstr "إضافة عنوان جديد"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistItemActions.tsx:76
+msgid "Add to cart"
+msgstr "إضافة إلى السلة"
+
+#: src/modules/shop/components/Products/ProductCard/ProductAddToCartButton.tsx:50
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductAddToCart.tsx:91
+#: src/modules/compare-list/components/CompareListProduct.tsx:120
+msgid "Add to Cart"
+msgstr "إضافة إلى السلة"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductToggleCompare.tsx:79
+msgid "Add to Compare"
+msgstr "إضافة للمقارنة"
+
+#: src/modules/shop/components/Products/ProductCard/ProductWishlistToggleButton.tsx:48
+msgid "Add to wishlist"
+msgstr "إضافة إلى قائمة الأمنيات"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductToggleWishlist.tsx:96
+msgid "Add to Wishlist"
+msgstr "إضافة إلى قائمة الأمنيات"
+
+#: src/modules/shop/components/Products/ProductCard/ProductAddToCartButton.tsx:24
+msgid "Added to Cart"
+msgstr "تمت الإضافة إلى السلة"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:21
+msgid "Address"
+msgstr "العنوان"
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:38
+#: src/modules/addresses/components/CreateAddressModal.tsx:49
+msgid "Address created successfully"
+msgstr "تم إنشاء العنوان بنجاح"
+
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:49
+msgid "Address deleted successfully"
+msgstr "تم حذف العنوان بنجاح"
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:71
+#: src/modules/addresses/components/CreateAddressModal.tsx:70
+msgid "Address Form"
+msgstr "نموذج العنوان"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:119
+msgid "Address Title"
+msgstr "عنوان العنوان"
+
+#: src/modules/addresses/components/EditAddressModal.tsx:60
+msgid "Address updated successfully"
+msgstr "تم تحديث العنوان بنجاح"
+
+#: src/modules/profile/utils/flags.tsx:28
+#: src/modules/profile/utils/flags.tsx:80
+msgid "Addresses"
+msgstr "عناوين"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:74
+msgid "All"
+msgstr "الكل"
+
+#: src/modules/core/components/Header/HeaderCategoriesBar.tsx:15
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+#: src/modules/auth/pages/RegisterPage.tsx:33
+msgid "Already have an account?"
+msgstr "هل لديك حساب بالفعل؟"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:117
+msgid "Amount"
+msgstr "المبلغ"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:44
+msgid "Amount cannot exceed 10,000 EGP"
+msgstr "لا يمكن أن يتجاوز المبلغ 10,000 جنيه"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:42
+msgid "Amount must be a number"
+msgstr "يجب أن يكون المبلغ رقمًا"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:43
+msgid "Amount must be at least 10 EGP"
+msgstr "يجب أن يكون المبلغ 10 جنيه على الأقل"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletAmountSlider.tsx:44
+msgid "Amount to use"
+msgstr "المبلغ المستخدم"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:100
+msgid "An unexpected error occurred. Please try again later."
+msgstr "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى لاحقًا."
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:107
+#: src/modules/cart/components/CartCouponSection.tsx:126
+msgid "Apply"
+msgstr "تطبيق"
+
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:64
+msgid "Are you absolutely sure?"
+msgstr "هل أنت متأكد تمامًا؟"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuLangSwitch.tsx:33
+msgid "arLocale"
+msgstr "العربية"
+
+#: src/modules/compare-list/utils/methods.tsx:6
+msgid "Availability"
+msgstr "التوفر"
+
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:30
+msgid "Available Balance"
+msgstr "الرصيد المتاح"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:81
+msgid "Available for use in this purchase"
+msgstr "متاح للاستخدام في هذه العملية"
+
+#: src/modules/auth/pages/ForgetPasswordPage.tsx:34
+msgid "Back to"
+msgstr "العودة إلى"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:38
+msgid "Back to orders"
+msgstr "العودة إلى الطلبات"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutPayments.tsx:30
+msgid "Back to Shipping Address"
+msgstr "العودة إلى عنوان الشحن"
+
+#: src/modules/terms-and-conditions/pages/TermsAndConditionsPage.tsx:27
+#: src/modules/privacy-policy/pages/PrivacyPolicyPage.tsx:27
+msgid "Back to store"
+msgstr "العودة إلى المتجر"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:97
+#: src/modules/home/components/HomeBestSellers.tsx:17
+msgid "Best Sellers"
+msgstr "الأكثر مبيعًا"
+
+#: src/modules/shop/components/Shop/ShopFilters.tsx:49
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:122
+#: src/modules/compare-list/utils/methods.tsx:9
+msgid "Brand"
+msgstr "العلامة التجارية"
+
+#: src/modules/shop/components/Filters/ActiveFilters.tsx:96
+msgid "Brand:"
+msgstr "العلامة التجارية:"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuLinks.tsx:15
+#: src/modules/core/components/Footer/Footer.tsx:175
+#: src/modules/brands/components/BrandsHero.tsx:8
+#: src/modules/brands/components/BrandsHero.tsx:15
+#: src/modules/brands/components/BrandProductsHero.tsx:18
+msgid "Brands"
+msgstr "العلامات التجارية"
+
+#: src/modules/core/components/LayoutShared/CategoriesSideMenu/CategoriesSideMenu.tsx:38
+msgid "Browse all product categories"
+msgstr "تصفح جميع فئات المنتجات"
+
+#: src/modules/categories/components/CategoriesHeader.tsx:22
+msgid "Browse all product categories in our store"
+msgstr "تصفح جميع فئات المنتجات في متجرنا"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:100
+msgid "Business Hours"
+msgstr "ساعات العمل"
+
+#: src/modules/faq/pages/FaqPage.tsx:141
+msgid "Call us at:"
+msgstr "اتصل بنا على:"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:74
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:224
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:80
+#: src/modules/cart/components/ClearCartButton.tsx:63
+#: src/modules/addresses/components/EditAddressModal.tsx:86
+#: src/modules/addresses/components/CreateAddressModal.tsx:75
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:72
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:51
+msgid "Canceled"
+msgstr "تم الإلغاء"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:267
+#~ msgid "Carrier"
+#~ msgstr "شركة الشحن"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuActions/TopMenuCartButton.tsx:27
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:64
+#: src/modules/checkout/components/CheckoutHero.tsx:11
+#: src/modules/cart/components/CartHero.tsx:12
+msgid "Cart"
+msgstr "سلة التسوق"
+
+#: src/modules/core/components/LayoutShared/CategoriesSideMenu/CategoriesSideMenu.tsx:35
+#: src/modules/core/components/Footer/Footer.tsx:167
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:38
+#: src/modules/categories/components/CategoryProductsHero.tsx:16
+#: src/modules/categories/components/CategoriesHeader.tsx:9
+#: src/modules/categories/components/CategoriesHeader.tsx:16
+msgid "Categories"
+msgstr "الفئات"
+
+#: src/modules/shop/components/Shop/ShopFilters.tsx:35
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:110
+#: src/modules/compare-list/utils/methods.tsx:8
+msgid "Category"
+msgstr "الفئة"
+
+#: src/modules/shop/components/Filters/ActiveFilters.tsx:75
+msgid "Category:"
+msgstr "الفئة:"
+
+#: src/modules/profile/utils/flags.tsx:22
+#: src/modules/profile/utils/flags.tsx:70
+#: src/modules/profile/pages/ChangePasswordPage.tsx:140
+msgid "Change Password"
+msgstr "تغيير كلمة المرور"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:117
+#: src/modules/checkout/components/CheckoutHero.tsx:8
+#: src/modules/checkout/components/CheckoutHero.tsx:12
+msgid "Checkout"
+msgstr "الدفع"
+
+#: src/modules/addresses/components/AddressForm/AddressFormCity.tsx:38
+msgid "City"
+msgstr "المدينة"
+
+#: src/modules/orders/components/OrdersFilters.tsx:42
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:120
+msgid "Clear"
+msgstr "مسح"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:56
+#: src/modules/shop/components/Filters/ActiveFilters.tsx:146
+msgid "Clear All"
+msgstr "مسح الكل"
+
+#: src/modules/cart/components/ClearCartButton.tsx:46
+msgid "Clear Cart"
+msgstr "تفريغ السلة"
+
+#: src/modules/cart/components/ClearCartButton.tsx:52
+msgid "Clear your cart?"
+msgstr "هل تريد تفريغ سلة التسوق؟"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:62
+msgid "Clear your wishlist?"
+msgstr "هل تريد تفريغ قائمة الأمنيات؟"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenu.tsx:62
+#: src/modules/core/components/LayoutShared/CategoriesSideMenu/CategoriesSideMenu.tsx:51
+#: src/components/ui/sheet.tsx:78
+msgid "Close"
+msgstr "إغلاق"
+
+#: src/modules/profile/utils/flags.tsx:90
+#: src/modules/core/components/Header/TopMenu/TopMenuActions/TopMenuCompareButton.tsx:29
+msgid "Compare"
+msgstr "مقارنة"
+
+#: src/modules/compare-list/components/CompareListHero.tsx:8
+#: src/modules/compare-list/components/CompareListHero.tsx:11
+msgid "Compare List"
+msgstr "قائمة المقارنة"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:33
+msgid "Completed"
+msgstr "مكتمل"
+
+#: src/modules/profile/pages/ChangePasswordPage.tsx:122
+#: src/modules/auth/components/ResetPasswordForm.tsx:171
+#: src/modules/auth/components/RegisterForm.tsx:203
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:115
+msgid "Connect With Us"
+msgstr "تواصل معنا"
+
+#: src/modules/core/components/Footer/Footer.tsx:229
+#: src/modules/contact-us/components/ContactInfo.tsx:12
+msgid "Contact Information"
+msgstr "معلومات التواصل"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:230
+msgid "Contact Support"
+msgstr "اتصل بالدعم"
+
+#: src/modules/core/components/Footer/Footer.tsx:198
+#: src/modules/contact-us/pages/ContactUsPage.tsx:11
+#: src/modules/contact-us/pages/ContactUsPage.tsx:14
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: src/modules/compare-list/pages/CompareListPage.tsx:28
+#: src/modules/checkout/pages/EmptyCheckoutPage.tsx:31
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:30
+#: src/modules/cart/pages/CartPage.tsx:37
+msgid "Continue Shopping"
+msgstr "متابعة التسوق"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutAddress.tsx:85
+msgid "Continue to Payment"
+msgstr "المتابعة إلى الدفع"
+
+#: src/modules/product/components/ProductDetails/ProductShare.tsx:129
+msgid "Copied"
+msgstr "تم النسخ"
+
+#: src/modules/product/components/ProductDetails/ProductShare.tsx:131
+msgid "Copy URL"
+msgstr "نسخ الرابط"
+
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:86
+#: src/modules/cart/components/CartTotals.tsx:64
+msgid "Coupon"
+msgstr "كوبون"
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:86
+#: src/modules/addresses/components/CreateAddressModal.tsx:79
+msgid "Create"
+msgstr "إنشاء"
+
+#: src/modules/auth/components/RegisterForm.tsx:243
+msgid "Create account"
+msgstr "إنشاء حساب"
+
+#: src/modules/profile/pages/ChangePasswordPage.tsx:83
+msgid "Current Password"
+msgstr "كلمة المرور الحالية"
+
+#: src/modules/core/components/Footer/Footer.tsx:190
+#: src/modules/contact-us/components/ContactInfo.tsx:51
+msgid "Customer Service"
+msgstr "خدمة العملاء"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:77
+msgid "Customer Support"
+msgstr "الدعم الفني"
+
+#: src/modules/orders/pages/OrdersPage.tsx:51
+msgid "Date"
+msgstr "التاريخ"
+
+#: src/modules/core/components/Header/TopHeader.tsx:51
+msgid "Days"
+msgstr "يوم"
+
+#: src/modules/shop/components/Products/ProductCard/ProductCartUpdateButton.tsx:79
+msgid "Decrease quantity"
+msgstr "تقليل الكمية"
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddressRadio.tsx:55
+msgid "Default"
+msgstr "افتراضي"
+
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:81
+#: src/modules/addresses/components/AddressCard.tsx:55
+msgid "Delete"
+msgstr "حذف"
+
+#. placeholder {0}: address?.title
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:67
+msgid "Delete {0} address?"
+msgstr "حذف عنوان {0}؟"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:280
+#~ msgid "Delivery Information"
+#~ msgstr "معلومات التوصيل"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:80
+msgid "Deposits"
+msgstr "الإيداعات"
+
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:89
+msgid "Description"
+msgstr "الوصف"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:178
+msgid "Detailed Address"
+msgstr "العنوان التفصيلي"
+
+#: src/modules/auth/components/ResendPasswordButtonProps.tsx:63
+msgid "Didn't receive an email? Check your spam folder or try again."
+msgstr "لم تستلم البريد؟ تحقق من مجلد الرسائل غير المرغوب فيها أو حاول مرة أخرى."
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:146
+#: src/modules/compare-list/utils/methods.tsx:5
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:75
+#: src/modules/cart/components/CartTotals.tsx:53
+msgid "Discount"
+msgstr "خصم"
+
+#: src/modules/auth/pages/LoginPage.tsx:32
+msgid "Don't have an account?"
+msgstr "ليس لديك حساب؟"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:74
+msgid "E-Wallet Balance"
+msgstr "رصيد المحفظة الإلكترونية"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:124
+msgid "e.g. Home, Work"
+msgstr "مثال: المنزل، العمل"
+
+#: src/modules/contact-us/components/ContactForm.tsx:157
+msgid "e.g. ORD-12345"
+msgstr "مثال: ORD-12345"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:62
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:108
+#: src/modules/addresses/components/AddressCard.tsx:47
+msgid "Edit"
+msgstr "تعديل"
+
+#: src/modules/addresses/components/EditAddressModal.tsx:73
+msgid "Edit Address"
+msgstr "تعديل العنوان"
+
+#: src/modules/addresses/components/EditAddressModal.tsx:81
+msgid "Edit Address Form"
+msgstr "نموذج تعديل العنوان"
+
+#: src/modules/profile/pages/ProfilePage.tsx:111
+#: src/modules/contact-us/components/ContactInfo.tsx:74
+#: src/modules/contact-us/components/ContactForm.tsx:134
+#: src/modules/auth/components/ResetPasswordForm.tsx:102
+#: src/modules/auth/components/RegisterForm.tsx:144
+#: src/modules/auth/components/LoginForm.tsx:86
+#: src/modules/auth/components/ForgetPasswordForm.tsx:76
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:140
+msgid "Email Address"
+msgstr "البريد الإلكتروني"
+
+#: src/modules/faq/pages/FaqPage.tsx:132
+msgid "Email us at:"
+msgstr "راسلنا على:"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuLangSwitch.tsx:35
+msgid "enLocale"
+msgstr "English"
+
+#: src/modules/auth/pages/ResetPasswordPage.tsx:22
+msgid "Enter the otp you received and your new password"
+msgstr "أدخل رمز التحقق الذي تلقيته وكلمة المرور الجديدة"
+
+#: src/modules/auth/pages/RegisterPage.tsx:23
+msgid "Enter your details below to create your account"
+msgstr "أدخل بياناتك أدناه لإنشاء حسابك"
+
+#: src/modules/auth/pages/ForgetPasswordPage.tsx:23
+msgid "Enter your email address and we'll send an otp to reset your password"
+msgstr "أدخل بريدك الإلكتروني وسنرسل رمز تحقق لإعادة تعيين كلمة المرور"
+
+#: src/modules/auth/pages/LoginPage.tsx:22
+msgid "Enter your email and password to access your account"
+msgstr "أدخل بريدك الإلكتروني وكلمة المرور للوصول إلى حسابك"
+
+#: src/modules/auth/components/LoginForm.tsx:109
+msgid "Enter your password"
+msgstr "أدخل كلمة المرور"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:285
+#~ msgid "Estimated Delivery"
+#~ msgstr "موعد التوصيل المتوقع"
+
+#: src/modules/core/components/Footer/Footer.tsx:45
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: src/modules/core/components/Footer/Footer.tsx:206
+msgid "FAQs"
+msgstr "الأسئلة الشائعة"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:47
+#: src/modules/home/components/Home_Brands.tsx:39
+msgid "Featured Brands"
+msgstr "العلامات التجارية المميزة"
+
+#: src/modules/profile/pages/ProfilePage.tsx:173
+msgid "Female"
+msgstr "أنثى"
+
+#: src/modules/contact-us/components/ContactForm.tsx:97
+msgid "Fill out the form below and we'll get back to you as soon as possible."
+msgstr "املأ النموذج أدناه وسنعاود الاتصال بك في أقرب وقت ممكن."
+
+#: src/modules/shop/components/Shop/FiltersSidebar.tsx:31
+msgid "Filters"
+msgstr "الفلاتر"
+
+#: src/modules/faq/pages/FaqPage.tsx:49
+msgid "Find answers to common questions about our products, shipping, returns, and more. If you can't find what you're looking for, please contact our customer support team."
+msgstr "ابحث عن إجابات للأسئلة الشائعة حول منتجاتنا، الشحن، الإرجاع، والمزيد. إذا لم تجد ما تبحث عنه، يرجى التواصل مع فريق الدعم."
+
+#: src/modules/auth/components/RegisterForm.tsx:105
+#: src/modules/auth/components/RegisterForm.tsx:109
+msgid "First name"
+msgstr "الاسم الأول"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:87
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: src/modules/auth/pages/ForgetPasswordPage.tsx:20
+msgid "Forget Password"
+msgstr "نسيت كلمة المرور"
+
+#: src/modules/auth/components/LoginForm.tsx:140
+msgid "Forgot password?"
+msgstr "نسيت كلمة المرور؟"
+
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:111
+#: src/modules/cart/components/CartTotals.tsx:80
+msgid "Free"
+msgstr "مجاني"
+
+#: src/modules/faq/components/FaqHero.tsx:8
+#: src/modules/faq/components/FaqHero.tsx:12
+msgid "Frequently Asked Questions"
+msgstr "الأسئلة المتكررة"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletAmountSlider.tsx:67
+msgid "From wallet"
+msgstr "من المحفظة"
+
+#: src/modules/profile/pages/ProfilePage.tsx:155
+msgid "Gender"
+msgstr "الجنس"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:52
+#: src/modules/errors/components/BaseErrorPage.tsx:92
+msgid "Go back"
+msgstr "العودة"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:47
+#: src/modules/errors/components/BaseErrorPage.tsx:67
+#: src/modules/errors/components/BaseErrorPage.tsx:87
+#: src/modules/errors/components/BaseErrorPage.tsx:107
+msgid "Go back home"
+msgstr "العودة إلى الصفحة الرئيسية"
+
+#: src/modules/addresses/components/AddressForm/AddressFormGovernmentCityInput.tsx:51
+msgid "Government"
+msgstr "المحافظة"
+
+#: src/modules/auth/components/PasswordInput.tsx:27
+msgid "Hide password"
+msgstr "إخفاء كلمة المرور"
+
+#: src/modules/tags/components/TagProductsHero.tsx:14
+#: src/modules/shop/components/Shop/ShopHero.tsx:10
+#: src/modules/profile/components/ProfileLayout/ProfileHeroSection.tsx:16
+#: src/modules/product/components/ProductHero.tsx:24
+#: src/modules/my-wallet/components/MyWalletHero.tsx:10
+#: src/modules/faq/components/FaqHero.tsx:10
+#: src/modules/core/components/Footer/Footer.tsx:151
+#: src/modules/contact-us/pages/ContactUsPage.tsx:13
+#: src/modules/compare-list/components/CompareListHero.tsx:10
+#: src/modules/checkout/components/CheckoutHero.tsx:10
+#: src/modules/categories/components/CategoryProductsHero.tsx:14
+#: src/modules/categories/components/CategoriesHeader.tsx:12
+#: src/modules/cart/components/CartHero.tsx:11
+#: src/modules/brands/components/BrandsHero.tsx:11
+#: src/modules/brands/components/BrandProductsHero.tsx:16
+msgid "Home"
+msgstr "الرئيسية"
+
+#: src/modules/core/components/Header/TopHeader.tsx:58
+msgid "Hours"
+msgstr "ساعة"
+
+#: src/modules/auth/components/RegisterForm.tsx:230
+msgid "I agree to the terms and conditions"
+msgstr "أوافق على الشروط والأحكام"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:217
+msgid "If you have any questions about your order, please contact our customer support."
+msgstr "إذا كان لديك أي استفسارات بخصوص طلبك، يرجى التواصل مع خدمة العملاء."
+
+#: src/modules/contact-us/components/ContactForm.tsx:162
+msgid "If your inquiry is about a specific order, please provide the order number."
+msgstr "إذا كان استفسارك بخصوص طلب معين، يرجى إدخال رقم الطلب."
+
+#: src/modules/orders/components/OrderItemsTable.tsx:96
+msgid "Image"
+msgstr "صورة"
+
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:73
+msgid "In Stock"
+msgstr "متوفر"
+
+#. placeholder {0}: product.stock
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:58
+msgid "In Stock ({0})"
+msgstr "متوفر ({0})"
+
+#: src/modules/shop/components/Products/ProductCard/ProductCartUpdateButton.tsx:100
+msgid "Increase quantity"
+msgstr "زيادة الكمية"
+
+#: src/modules/core/components/Footer/Footer.tsx:67
+msgid "Instagram"
+msgstr "إنستغرام"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:41
+msgid "item"
+msgstr "عنصر"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:43
+msgid "items"
+msgstr "عناصر"
+
+#: src/modules/orders/pages/OrdersPage.tsx:63
+msgid "Items"
+msgstr "العناصر"
+
+#: src/modules/auth/components/RegisterForm.tsx:124
+#: src/modules/auth/components/RegisterForm.tsx:128
+msgid "Last name"
+msgstr "الاسم الأخير"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:102
+msgid "Last Name"
+msgstr "الاسم الأخير"
+
+#. placeholder {0}: format(new Date(), 'dd MMMM yyyy')
+#: src/modules/terms-and-conditions/pages/TermsAndConditionsPage.tsx:49
+#: src/modules/privacy-policy/pages/PrivacyPolicyPage.tsx:49
+msgid "Last updated: {0}"
+msgstr "آخر تحديث: {0}"
+
+#: src/modules/shop/components/Products/ProductCard/ProductCard.tsx:43
+msgid "Limited Stock"
+msgstr "كمية محدودة"
+
+#: src/modules/core/components/Footer/Footer.tsx:134
+msgid "LinkedIn"
+msgstr "لينكدإن"
+
+#: src/modules/auth/pages/RegisterPage.tsx:38
+#: src/modules/auth/pages/ForgetPasswordPage.tsx:39
+msgid "log in"
+msgstr "تسجيل الدخول"
+
+#: src/modules/auth/components/LoginForm.tsx:74
+msgid "Logged in successfully"
+msgstr "تم تسجيل الدخول بنجاح"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenuContent.tsx:42
+#: src/modules/core/components/Header/TopMenu/TopMenuUserSection/TopMenuUserContent.tsx:21
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:80
+#: src/modules/auth/pages/LoginPage.tsx:19
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: src/modules/core/components/Header/TopMenu/LogOutLink.tsx:26
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: src/modules/cart/pages/CartPage.tsx:30
+msgid "Looks like you haven't added anything to your cart yet."
+msgstr "يبدو أنك لم تقم بإضافة أي عناصر إلى سلة التسوق الخاصة بك بعد."
+
+#: src/modules/checkout/pages/EmptyCheckoutPage.tsx:22
+msgid "Looks like you haven't added anything to your cart yet. Continue shopping to find something you'll love."
+msgstr "يبدو أنك لم تقم بإضافة أي منتجات إلى سلة التسوق الخاصة بك بعد. تابع التسوق للعثور على ما يعجبك."
+
+#. placeholder {0}: product.stock
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:66
+msgid "Low Stock - Only {0} left"
+msgstr "كمية محدودة - بقي {0} فقط"
+
+#: src/modules/core/components/Footer/Footer.tsx:292
+msgid "Made with <0>❤️</0> by <1>Ahmed Adel</1>"
+msgstr "Made with <0>❤️</0> by <1>Ahmed Adel</1>"
+
+#: src/modules/profile/pages/ProfilePage.tsx:170
+msgid "Male"
+msgstr "ذكر"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenu.tsx:41
+msgid "Manage your account and preferences"
+msgstr "إدارة حسابك وتفضيلاتك"
+
+#: src/modules/contact-us/components/ContactForm.tsx:226
+msgid "Message"
+msgstr "الرسالة"
+
+#: src/modules/contact-us/components/ContactForm.tsx:84
+msgid "Message sent, We'll get back to you as soon as possible."
+msgstr "تم إرسال الرسالة، سنتواصل معك في أقرب وقت ممكن."
+
+#: src/modules/core/components/Header/TopHeader.tsx:65
+msgid "Minutes"
+msgstr "دقيقة"
+
+#: src/modules/addresses/pages/AddressesSkeletonPage.tsx:18
+#: src/modules/addresses/pages/AddressesPage.tsx:18
+msgid "My Addresses"
+msgstr "عناويني"
+
+#: src/modules/profile/utils/flags.tsx:46
+#: src/modules/profile/utils/flags.tsx:95
+#: src/modules/my-wallet/components/MyWalletHero.tsx:8
+#: src/modules/my-wallet/components/MyWalletHero.tsx:12
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:19
+msgid "My Wallet"
+msgstr "محفظتي"
+
+#: src/modules/profile/pages/ProfilePage.tsx:92
+#: src/modules/profile/pages/ProfilePage.tsx:96
+#: src/modules/contact-us/components/ContactForm.tsx:115
+msgid "Name"
+msgstr "الاسم"
+
+#: src/modules/auth/components/LoginForm.tsx:90
+msgid "name@example.com"
+msgstr "example@example.com"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:212
+msgid "Need Help?"
+msgstr "بحاجة إلى مساعدة؟"
+
+#: src/modules/cart/pages/CartPage.tsx:68
+msgid "Need help? Contact our support team"
+msgstr "بحاجة إلى مساعدة؟ تواصل مع فريق الدعم"
+
+#: src/modules/shop/components/Products/ProductCard/ProductCard.tsx:31
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:79
+#: src/modules/compare-list/components/CompareListProduct.tsx:93
+msgid "New"
+msgstr "جديد"
+
+#: src/modules/compare-list/utils/methods.tsx:7
+msgid "New Product"
+msgstr "منتج جديد"
+
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:31
+msgid "Newest First"
+msgstr "الأحدث أولاً"
+
+#: src/modules/shop/components/Shop/ShopPagination.tsx:199
+msgid "Next"
+msgstr "التالي"
+
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:85
+msgid "No"
+msgstr "لا"
+
+#: src/modules/addresses/pages/AddressesPage.tsx:55
+msgid "No addresses found"
+msgstr "لم يتم العثور على عناوين"
+
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:46
+msgid "No discount"
+msgstr "لا يوجد خصم"
+
+#: src/modules/faq/pages/FaqPage.tsx:74
+msgid "No FAQs found matching your search. Please try different keywords."
+msgstr "لا توجد أسئلة مطابقة لبحثك. يرجى تجربة كلمات أخرى."
+
+#: src/modules/orders/pages/OrdersPage.tsx:80
+msgid "No orders found."
+msgstr "لم يتم العثور على طلبات."
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:178
+msgid "No payment methods available"
+msgstr "لا توجد وسائل دفع متاحة"
+
+#: src/modules/compare-list/pages/CompareListPage.tsx:25
+msgid "No products to compare"
+msgstr "لا توجد منتجات للمقارنة"
+
+#: src/modules/core/components/LayoutShared/SearchCommand/SearchCommandResult.tsx:19
+msgid "No results found."
+msgstr "لا توجد نتائج."
+
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:35
+msgid "Oldest First"
+msgstr "الأقدم أولاً"
+
+#: src/modules/core/components/FormFileUploadInput/FileUploadInput.tsx:41
+msgid "Only images and PDFs are allowed"
+msgstr "يُسمح فقط بالصور وملفات PDF"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:181
+#~ msgid "Order"
+#~ msgstr "الطلب"
+
+#. placeholder {0}: order.id
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:44
+msgid "Order #{0}"
+msgstr "الطلب #{0}"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:77
+msgid "Order Date"
+msgstr "تاريخ الطلب"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:64
+msgid "Order details and status"
+msgstr "تفاصيل الطلب وحالته"
+
+#: src/modules/orders/pages/OrdersPage.tsx:48
+msgid "Order ID"
+msgstr "رقم الطلب"
+
+#: src/modules/orders/components/OrderItemsTable.tsx:28
+#: src/modules/orders/components/OrderItemsTable.tsx:31
+msgid "Order Items"
+msgstr "عناصر الطلب"
+
+#: src/modules/contact-us/components/ContactForm.tsx:153
+msgid "Order Number (Optional)"
+msgstr "رقم الطلب (اختياري)"
+
+#: src/modules/checkout/components/CheckoutPlaceOrderButton.tsx:49
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutPlaceOrderButton.tsx:49
+msgid "Order placed successfully"
+msgstr "تم تقديم الطلب بنجاح"
+
+#: src/modules/contact-us/components/ContactForm.tsx:194
+msgid "Order Status"
+msgstr "حالة الطلب"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:61
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:27
+#: src/modules/cart/components/CartTotals.tsx:35
+msgid "Order Summary"
+msgstr "ملخص الطلب"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:122
+msgid "Order Total"
+msgstr "إجمالي الطلب"
+
+#: src/modules/profile/utils/flags.tsx:40
+#: src/modules/profile/utils/flags.tsx:52
+#: src/modules/profile/utils/flags.tsx:75
+msgid "Orders"
+msgstr "الطلبات"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:59
+msgid "Orders & Returns"
+msgstr "الطلبات والإرجاع"
+
+#: src/modules/contact-us/components/ContactForm.tsx:211
+msgid "Other"
+msgstr "أخرى"
+
+#: src/modules/auth/components/ResetPasswordForm.tsx:122
+msgid "OTP Code"
+msgstr "رمز التحقق"
+
+#: src/modules/auth/components/ForgetPasswordForm.tsx:57
+msgid "OTP sent successfully"
+msgstr "تم إرسال رمز التحقق بنجاح"
+
+#: src/modules/faq/pages/FaqPage.tsx:125
+msgid "Our customer support team is here to help you with any questions or concerns."
+msgstr "فريق دعم العملاء لدينا هنا لمساعدتك في أي استفسارات أو مخاوف."
+
+#: src/modules/shop/components/Products/ProductCard/ProductAddToCartButton.tsx:56
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:59
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductAddToCart.tsx:93
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:65
+msgid "Out of Stock"
+msgstr "غير متوفر"
+
+#. placeholder {0}: paginationInfo.current_page
+#. placeholder {1}: paginationInfo.last_page
+#: src/modules/shop/components/Shop/ShopPagination.tsx:142
+#: src/modules/orders/components/OrdersPagination.tsx:76
+msgid "Page {0} of {1}"
+msgstr "الصفحة {0} من {1}"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:44
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletSection.tsx:20
+msgid "Partial Pay with E-Wallet"
+msgstr "دفع جزئي بالمحفظة الإلكترونية"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:59
+msgid "Partial Payment"
+msgstr "دفع جزئي"
+
+#: src/modules/profile/pages/ChangePasswordPage.tsx:103
+#: src/modules/auth/components/ResetPasswordForm.tsx:153
+#: src/modules/auth/components/RegisterForm.tsx:184
+#: src/modules/auth/components/LoginForm.tsx:105
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: src/modules/profile/pages/ChangePasswordPage.tsx:63
+msgid "Password changed successfully"
+msgstr "تم تغيير كلمة المرور بنجاح"
+
+#: src/modules/auth/components/LoginForm.tsx:38
+msgid "Password must be at least 8 characters"
+msgstr "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل"
+
+#: src/modules/auth/components/ResetPasswordForm.tsx:80
+msgid "Password reset successfully"
+msgstr "تم إعادة تعيين كلمة المرور بنجاح"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:57
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:67
+msgid "Pay with E-Wallet"
+msgstr "الدفع باستخدام المحفظة الإلكترونية"
+
+#: src/modules/checkout/components/GuestCheckout/CheckoutProgress.tsx:20
+msgid "Payment"
+msgstr "الدفع"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:19
+msgid "Payment Failed!"
+msgstr "فشل الدفع!"
+
+#: src/modules/orders/pages/OrdersPage.tsx:60
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:88
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:150
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:87
+#: src/modules/checkout/components/CheckoutPaymentMethods/CheckoutPaymentMethods.tsx:25
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: src/modules/orders/pages/OrdersPage.tsx:57
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:99
+msgid "Payment Status"
+msgstr "حالة الدفع"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:18
+msgid "Payment Successful!"
+msgstr "الدفع ناجح!"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:20
+msgid "Payment Warning!"
+msgstr "تحذير الدفع!"
+
+#: src/modules/core/components/FormFileUploadInput/FileUploadInput.tsx:109
+msgid "PDF File"
+msgstr "ملف PDF"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:42
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:39
+msgid "Pending"
+msgstr "قيد المعالجة"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:200
+msgid "Phone"
+msgstr "الهاتف"
+
+#: src/modules/profile/pages/ProfilePage.tsx:133
+#: src/modules/auth/components/RegisterForm.tsx:164
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:156
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: src/modules/checkout/components/CheckoutPlaceOrderButton.tsx:87
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutPlaceOrderButton.tsx:84
+msgid "Place Order"
+msgstr "تقديم الطلب"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:181
+#~ msgid "Placed on"
+#~ msgstr "تم الطلب في"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:47
+#~ msgid "Placed on {formattedDate}"
+#~ msgstr "تم الطلب في {formattedDate}"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:47
+msgid "Placed on <0>{formattedDate}</0>"
+msgstr "تم الطلب في <0>{formattedDate}</0>"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:75
+msgid "Please check your internet connection and try again."
+msgstr "الرجاء التأكد من اتصال الإنترنت ثم إعادة المحاولة."
+
+#: src/modules/contact-us/components/ContactForm.tsx:230
+msgid "Please describe your inquiry in detail..."
+msgstr "يرجى وصف استفسارك بالتفصيل..."
+
+#: src/modules/auth/components/LoginForm.tsx:35
+msgid "Please enter a valid email"
+msgstr "يرجى إدخال بريد إلكتروني صحيح"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutAddress.tsx:61
+msgid "Please enter your shipping address to continue."
+msgstr "يرجى إدخال عنوان الشحن الخاص بك للمتابعة."
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:45
+msgid "Please select a payment method"
+msgstr "الرجاء اختيار وسيلة دفع"
+
+#: src/modules/checkout/components/CheckoutPlaceOrderButton.tsx:86
+#~ msgid "Please select payment method"
+#~ msgstr "يرجى اختيار طريقة الدفع"
+
+#: src/modules/checkout/components/CheckoutPlaceOrderButton.tsx:81
+#~ msgid "Please select shipping address"
+#~ msgstr "يرجى اختيار عنوان الشحن"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:69
+msgid "Please upload receipt"
+msgstr "يرجى رفع إيصال الدفع"
+
+#: src/routes/index.tsx:21
+msgid "Please wait a few seconds"
+msgstr "يرجى الانتظار بضع ثوان"
+
+#: src/modules/shop/components/Shop/ShopPagination.tsx:74
+msgid "Previous"
+msgstr "السابق"
+
+#: src/modules/shop/components/Shop/ShopFilters.tsx:63
+#: src/modules/orders/components/OrderItemsTable.tsx:68
+#: src/modules/orders/components/OrderItemsTable.tsx:102
+#: src/modules/compare-list/utils/methods.tsx:4
+msgid "Price"
+msgstr "السعر"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:383
+#~ msgid "Price Details"
+#~ msgstr "تفاصيل السعر"
+
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:27
+msgid "Price: High to Low"
+msgstr "السعر: من الأعلى للأقل"
+
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:23
+msgid "Price: Low to High"
+msgstr "السعر: من الأقل للأعلى"
+
+#: src/modules/terms-and-conditions/pages/TermsAndConditionsPage.tsx:38
+#: src/modules/privacy-policy/pages/PrivacyPolicyPage.tsx:38
+msgid "Print"
+msgstr "طباعة"
+
+#: src/modules/privacy-policy/pages/PrivacyPolicyPage.tsx:46
+#: src/modules/core/components/Footer/Footer.tsx:214
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+#: src/modules/cart/components/CartTotals.tsx:109
+msgid "Proceed to Checkout"
+msgstr "المتابعة إلى الدفع"
+
+#: src/modules/orders/components/OrderItemsTable.tsx:99
+#: src/modules/compare-list/components/CompareListDesktopView.tsx:24
+msgid "Product"
+msgstr "المنتج"
+
+#. placeholder {0}: activeProductIndex + 1
+#. placeholder {1}: comparedProducts.length
+#: src/modules/compare-list/components/CompareListMobileView.tsx:54
+msgid "Product {0} of {1}"
+msgstr "المنتج {0} من {1}"
+
+#: src/modules/compare-list/pages/CompareListPage.tsx:21
+#: src/modules/compare-list/components/CompareListMobileView.tsx:41
+msgid "Product Comparison"
+msgstr "مقارنة المنتجات"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistItemActions.tsx:74
+msgid "Product in cart"
+msgstr "المنتج في السلة"
+
+#: src/modules/contact-us/components/ContactForm.tsx:200
+msgid "Product Inquiry"
+msgstr "استفسار عن منتج"
+
+#: src/modules/categories/components/CategoryGrid.tsx:39
+msgid "products"
+msgstr "منتجات"
+
+#: src/modules/profile/utils/flags.tsx:16
+#: src/modules/profile/utils/flags.tsx:65
+#: src/modules/profile/components/ProfileLayout/ProfileHeroSection.tsx:17
+#: src/modules/profile/components/ProfileLayout/ProfileHeroSection.tsx:22
+#: src/modules/profile/components/ProfileLayout/ProfileHeroSection.tsx:29
+#: src/modules/my-wallet/components/MyWalletHero.tsx:11
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:78
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: src/modules/profile/pages/ProfilePage.tsx:73
+msgid "Profile updated successfully"
+msgstr "تم تحديث الملف الشخصي بنجاح"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:77
+msgid "Purchases"
+msgstr "المشتريات"
+
+#: src/modules/orders/components/OrderItemsTable.tsx:74
+#: src/modules/orders/components/OrderItemsTable.tsx:105
+msgid "Qty"
+msgstr "الكمية"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductAddToCart.tsx:50
+msgid "Quantity"
+msgstr "الكمية"
+
+#. placeholder {0}: item.quantity
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:48
+msgid "Quantity: {0}"
+msgstr "الكمية: {0}"
+
+#: src/modules/core/components/Footer/Footer.tsx:143
+msgid "Quick Links"
+msgstr "روابط سريعة"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:67
+msgid "Recent Transactions"
+msgstr "المعاملات الأخيرة"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenuContent.tsx:54
+#: src/modules/core/components/Header/TopMenu/TopMenuUserSection/TopMenuUserContent.tsx:26
+#: src/modules/auth/pages/RegisterPage.tsx:20
+msgid "Register"
+msgstr "تسجيل"
+
+#: src/modules/auth/components/RegisterForm.tsx:90
+msgid "Registered successfully"
+msgstr "تم التسجيل بنجاح"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletAmountSlider.tsx:75
+msgid "Remaining to pay"
+msgstr "المتبقي للدفع"
+
+#: src/modules/auth/components/LoginForm.tsx:123
+#~ msgid "Remember me"
+#~ msgstr "تذكرني"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistItemActions.tsx:101
+msgid "Remove from wishlist"
+msgstr "إزالة من قائمة الأمنيات"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductToggleWishlist.tsx:94
+msgid "Remove from Wishlist"
+msgstr "إزالة من قائمة الأمنيات"
+
+#: src/modules/auth/components/ResendPasswordButtonProps.tsx:56
+msgid "Resend in"
+msgstr "إعادة الإرسال خلال"
+
+#: src/modules/auth/components/ResendPasswordButtonProps.tsx:58
+msgid "Resend password reset otp"
+msgstr "إعادة إرسال رمز إعادة تعيين كلمة المرور"
+
+#: src/modules/auth/pages/ResetPasswordPage.tsx:19
+#: src/modules/auth/components/ResetPasswordForm.tsx:188
+msgid "Reset Password"
+msgstr "إعادة تعيين كلمة المرور"
+
+#: src/modules/contact-us/components/ContactForm.tsx:197
+msgid "Returns & Refunds"
+msgstr "الإرجاع والاسترداد"
+
+#: src/modules/checkout/components/GuestCheckout/CheckoutProgress.tsx:21
+msgid "Review"
+msgstr "مراجعة"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:34
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutPayments.tsx:41
+msgid "Review Order"
+msgstr "مراجعة الطلب"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:85
+msgid "Sales Inquiries"
+msgstr "استفسارات المبيعات"
+
+#: src/modules/profile/pages/ProfilePage.tsx:191
+msgid "Save"
+msgstr "حفظ"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:53
+#: src/modules/home/components/Home_Brands.tsx:49
+msgid "Scroll left"
+msgstr "التمرير لليسار"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:59
+#: src/modules/home/components/Home_Brands.tsx:59
+msgid "Scroll right"
+msgstr "التمرير لليمين"
+
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:51
+msgid "search"
+msgstr "بحث"
+
+#: src/modules/core/components/LayoutShared/SearchCommand/SearchCommandContent.tsx:44
+#: src/modules/core/components/Header/TopMenu/TopMenuSearch.tsx:17
+msgid "Search ..."
+msgstr "بحث ..."
+
+#: src/modules/core/components/Header/TopHeader.tsx:72
+msgid "Seconds"
+msgstr "ثانية"
+
+#: src/modules/profile/pages/ProfilePage.tsx:164
+msgid "select"
+msgstr "اختر"
+
+#: src/modules/contact-us/components/ContactForm.tsx:188
+msgid "Select a subject"
+msgstr "اختر موضوعًا"
+
+#: src/modules/contact-us/components/ContactForm.tsx:248
+msgid "Send Message"
+msgstr "إرسال رسالة"
+
+#: src/modules/auth/components/ForgetPasswordForm.tsx:94
+msgid "Send OTP Code"
+msgstr "إرسال رمز التحقق"
+
+#: src/modules/contact-us/components/ContactForm.tsx:94
+msgid "Send us a message"
+msgstr "أرسل لنا رسالة"
+
+#: src/modules/auth/components/ResendPasswordButtonProps.tsx:53
+msgid "Sending..."
+msgstr "جاري الإرسال..."
+
+#: src/modules/product/components/ProductDetails/ProductShare.tsx:39
+msgid "Share this product"
+msgstr "مشاركة هذا المنتج"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:197
+#~ msgid "Shipment Status"
+#~ msgstr "حالة الشحنة"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:156
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:105
+#: src/modules/checkout/components/GuestCheckout/CheckoutProgress.tsx:19
+#: src/modules/cart/components/CartTotals.tsx:74
+msgid "Shipping"
+msgstr "الشحن"
+
+#: src/modules/contact-us/components/ContactForm.tsx:203
+msgid "Shipping & Delivery"
+msgstr "الشحن والتوصيل"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:181
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:44
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutAddress.tsx:58
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddresses.tsx:17
+msgid "Shipping Address"
+msgstr "عنوان الشحن"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:104
+msgid "Shipping calculated at checkout."
+msgstr "يتم حساب الشحن عند الدفع."
+
+#: src/modules/tags/components/TagProductsHero.tsx:16
+#: src/modules/shop/components/Shop/ShopHero.tsx:8
+#: src/modules/shop/components/Shop/ShopHero.tsx:11
+#: src/modules/product/components/ProductHero.tsx:25
+#: src/modules/core/components/Header/TopMenu/TopMenuLinks.tsx:9
+#: src/modules/core/components/Footer/Footer.tsx:159
+#: src/modules/core/components/Footer/Footer.tsx:183
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:22
+msgid "Shop"
+msgstr "تسوق"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:18
+#: src/modules/home/components/HomeCategories.tsx:15
+msgid "Shop by Category"
+msgstr "تسوق حسب الفئة"
+
+#: src/modules/home/components/HomeBanner.tsx:43
+msgid "Shop Now"
+msgstr "تسوق الآن"
+
+#: src/modules/cart/components/CartHero.tsx:9
+msgid "Shopping Cart"
+msgstr "عربة التسوق"
+
+#: src/modules/auth/components/PasswordInput.tsx:27
+msgid "Show password"
+msgstr "إظهار كلمة المرور"
+
+#. placeholder {0}: paginationInfo.from
+#. placeholder {1}: paginationInfo.to
+#. placeholder {2}: paginationInfo.total
+#: src/modules/orders/components/OrdersPagination.tsx:35
+msgid "Showing {0} to {1} of {2} orders"
+msgstr "عرض {0} إلى {1} من {2} طلب"
+
+#: src/modules/auth/components/LoginForm.tsx:145
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+#: src/modules/auth/pages/LoginPage.tsx:37
+msgid "Sign up"
+msgstr "إنشاء حساب"
+
+#. placeholder {0}: product.sku
+#. placeholder {0}: item.product.sku
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:23
+#: src/modules/orders/components/OrderItemsTable.tsx:59
+#: src/modules/orders/components/OrderItemsTable.tsx:134
+#: src/modules/compare-list/components/CompareListProduct.tsx:102
+#: src/modules/cart/components/CartItemCard.tsx:30
+msgid "SKU: {0}"
+msgstr "رمز التخزين: {0}"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:59
+#: src/modules/errors/components/BaseErrorPage.tsx:99
+msgid "Something went wrong"
+msgstr "حدث خطأ ما"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:45
+msgid "Sorry, we couldn't find the page you're looking for."
+msgstr "عذرًا، لم نتمكن من العثور على الصفحة التي تبحث عنها."
+
+#: src/modules/errors/components/BaseErrorPage.tsx:60
+msgid "Sorry, we encountered an error processing your request. Our team has been notified."
+msgstr "عذرًا، واجهنا خطأ أثناء معالجة طلبك. تم إبلاغ فريقنا."
+
+#: src/modules/errors/components/BaseErrorPage.tsx:85
+msgid "Sorry, you don't have permission to access this page."
+msgstr "عذرًا، ليس لديك إذن للوصول إلى هذه الصفحة."
+
+#: src/modules/shop/pages/ShopSkeleton.tsx:64
+#: src/modules/shop/components/Products/ProductsSidebarGridSkeleton.tsx:61
+msgid "Sort"
+msgstr "ترتيب"
+
+#. placeholder {0}: activeSortBy && <>: {activeSortBy.label}</>
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:70
+msgid "Sort{0}"
+msgstr "ترتيب{0}"
+
+#: src/modules/orders/pages/OrdersPage.tsx:54
+msgid "Status"
+msgstr "الحالة"
+
+#: src/modules/faq/pages/FaqPage.tsx:122
+msgid "Still have questions?"
+msgstr "هل لا زلت تملك أسئلة؟"
+
+#: src/modules/contact-us/components/ContactForm.tsx:179
+msgid "Subject"
+msgstr "الموضوع"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:129
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:99
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:68
+msgid "Subtotal"
+msgstr "الإجمالي الفرعي"
+
+#. placeholder {0}: totals.items
+#. placeholder {1}: totals.items === 1 ? 'item' : 'items'
+#: src/modules/cart/components/CartTotals.tsx:42
+msgid "Subtotal ({0} {1})"
+msgstr "الإجمالي الفرعي ({0} {1})"
+
+#: src/modules/faq/pages/FaqPage.tsx:137
+msgid "support@example.com"
+msgstr "support@example.com"
+
+#: src/modules/shop/components/Shop/ShopFilters.tsx:77
+msgid "Tag"
+msgstr "وسم"
+
+#: src/modules/shop/components/Filters/ActiveFilters.tsx:124
+msgid "Tag:"
+msgstr "الوسم:"
+
+#: src/modules/tags/components/TagProductsHero.tsx:20
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:132
+msgid "Tags"
+msgstr "الوسوم"
+
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:117
+msgid "Tax"
+msgstr "الضريبة"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:137
+#: src/modules/cart/components/CartTotals.tsx:87
+msgid "Taxes"
+msgstr "الضرائب"
+
+#: src/modules/contact-us/components/ContactForm.tsx:208
+msgid "Technical Issue"
+msgstr "مشكلة تقنية"
+
+#: src/modules/core/components/Footer/Footer.tsx:222
+msgid "Terms & Conditions"
+msgstr "الشروط والأحكام"
+
+#: src/modules/terms-and-conditions/pages/TermsAndConditionsPage.tsx:46
+msgid "Terms and Conditions"
+msgstr "الشروط والأحكام"
+
+#: src/modules/cart/components/ClearCartButton.tsx:55
+msgid "This will remove all items from your cart. This action cannot be undone."
+msgstr "سيؤدي هذا إلى إزالة جميع العناصر من سلة التسوق الخاصة بك. لا يمكن التراجع عن هذا الإجراء."
+
+#: src/modules/orders/pages/OrdersPage.tsx:66
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:166
+#: src/modules/orders/components/OrderItemsTable.tsx:80
+#: src/modules/orders/components/OrderItemsTable.tsx:108
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:124
+#: src/modules/cart/components/CartTotals.tsx:97
+msgid "Total"
+msgstr "الإجمالي"
+
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:48
+msgid "Total Balance"
+msgstr "إجمالي الرصيد"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:178
+#~ msgid "Track Your Order"
+#~ msgstr "تتبع طلبك"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:200
+#~ msgid "Tracking Number"
+#~ msgstr "رقم التتبع"
+
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:76
+msgid "Transactions"
+msgstr "المعاملات"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:62
+#: src/modules/errors/components/BaseErrorPage.tsx:77
+#: src/modules/errors/components/BaseErrorPage.tsx:102
+msgid "Try again"
+msgstr "حاول مرة أخرى"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:31
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:32
+msgid "Try Again"
+msgstr "حاول مرة أخرى"
+
+#: src/modules/core/components/Footer/Footer.tsx:89
+msgid "Twitter"
+msgstr "تويتر"
+
+#: src/modules/addresses/components/EditAddressModal.tsx:90
+msgid "Update"
+msgstr "تحديث"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:204
+#: src/modules/checkout/components/CheckoutPaymentMethods/CheckoutPaymentMethodRecord.tsx:80
+msgid "Upload proof of payment"
+msgstr "تحميل إثبات الدفع"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenu.tsx:38
+msgid "User Account"
+msgstr "حساب المستخدم"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:101
+#: src/modules/home/components/HomeBestSellers.tsx:25
+msgid "View all"
+msgstr "عرض الكل"
+
+#: src/modules/home/components/HomeBanner.tsx:60
+msgid "View Brand"
+msgstr "عرض العلامة التجارية"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:270
+#~ msgid "View Carrier Details"
+#~ msgstr "عرض تفاصيل شركة الشحن"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:110
+msgid "View Cart"
+msgstr "عرض السلة"
+
+#: src/modules/home/components/HomeBanner.tsx:52
+msgid "View Category"
+msgstr "عرض الفئة"
+
+#: src/modules/orders/pages/OrdersPage.tsx:151
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:40
+msgid "View on map"
+msgstr "عرض على الخريطة"
+
+#: src/modules/home/components/HomeBanner.tsx:56
+msgid "View Product"
+msgstr "عرض المنتج"
+
+#. placeholder {0}: brand.products_count
+#: src/modules/brands/components/BrandGrid.tsx:34
+msgid "View Products ({0})"
+msgstr "عرض المنتجات ({0})"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistSideMenu.tsx:53
+msgid "View Wishlist"
+msgstr "عرض قائمة الرغبات"
+
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:96
+msgid "Wallet"
+msgstr "المحفظة"
+
+#: src/modules/contact-us/pages/ContactUsPage.tsx:25
+msgid "We're here to help! Fill out the form below or use our contact information."
+msgstr "نحن هنا لمساعدتك! يرجى تعبئة النموذج أدناه أو استخدام معلومات الاتصال الخاصة بنا."
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:184
+msgid "Where your order will be delivered"
+msgstr "مكان تسليم طلبك"
+
+#: src/modules/profile/utils/flags.tsx:34
+#: src/modules/profile/utils/flags.tsx:85
+#: src/modules/core/components/Header/TopMenu/TopMenuActions/TopMenuWishlistButton.tsx:27
+msgid "Wishlist"
+msgstr "قائمة المفضل"
+
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:78
+msgid "Yes"
+msgstr "نعم"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:74
+msgid "You are offline"
+msgstr "أنت غير متصل بالإنترنت"
+
+#: src/modules/product/components/RelatedProducts.tsx:19
+msgid "You might also like"
+msgstr "قد يعجبك أيضًا"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductToggleCompare.tsx:32
+msgid "You must be logged in to compare products"
+msgstr "يجب أن تكون مسجلاً الدخول لمقارنة المنتجات"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartSideMenu.tsx:32
+msgid "Your Cart"
+msgstr "سلة التسوق الخاصة بك"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:25
+#: src/modules/checkout/pages/EmptyCheckoutPage.tsx:18
+#: src/modules/cart/pages/CartPage.tsx:27
+msgid "Your cart is empty"
+msgstr "سلة التسوق الخاصة بك فارغة"
+
+#: src/modules/contact-us/components/ContactForm.tsx:119
+msgid "Your name"
+msgstr "اسمك"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:253
+#~ msgid "Your package is on its way to you"
+#~ msgstr "طلبك في الطريق إليك"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:24
+msgid "Your payment has been processed successfully. A receipt has been sent to your email."
+msgstr "تمت معالجة دفعك بنجاح. تم إرسال إيصال إلى بريدك الإلكتروني."
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:25
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:26
+msgid "Your payment has failed. Please try again."
+msgstr "فشل دفعك. يرجى المحاولة مرة أخرى."
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistSideMenu.tsx:38
+msgid "Your Wishlist"
+msgstr "قائمة مفضلاتك"
+
+#: src/modules/wishlist/components/WishlistItemGrid.tsx:14
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistSideMenuContent.tsx:20
+msgid "Your wishlist is empty"
+msgstr "قائمة مفضلاتك فارغة"
+
+#: src/modules/core/components/Footer/Footer.tsx:111
+msgid "YouTube"
+msgstr "يوتيوب"

@@ -1,0 +1,1873 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-03-22 14:40+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/modules/profile/pages/ProfilePage.tsx:33
+msgid "Name must be at least 2 characters."
+msgstr "Name must be at least 2 characters."
+
+#. js-lingui-explicit-id
+#: src/modules/profile/pages/ProfilePage.tsx:36
+#: src/modules/auth/components/ResetPasswordForm.tsx:37
+#: src/modules/auth/components/RegisterForm.tsx:35
+#: src/modules/auth/components/ForgetPasswordForm.tsx:28
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+#. js-lingui-explicit-id
+#: src/modules/profile/pages/ChangePasswordPage.tsx:25
+#: src/modules/profile/pages/ChangePasswordPage.tsx:28
+#: src/modules/auth/components/ResetPasswordForm.tsx:43
+#: src/modules/auth/components/RegisterForm.tsx:41
+msgid "Password must be at least 8 characters."
+msgstr "Password must be at least 8 characters."
+
+#. js-lingui-explicit-id
+#: src/modules/profile/pages/ChangePasswordPage.tsx:33
+#: src/modules/auth/components/ResetPasswordForm.tsx:48
+#: src/modules/auth/components/RegisterForm.tsx:49
+msgid "Passwords do not match."
+msgstr "Passwords do not match."
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/parseError.ts:27
+msgid "An unexpected error occurred"
+msgstr "An unexpected error occurred"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/parseError.ts:38
+msgid "Network error occurred"
+msgstr "Network error occurred"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/parseError.ts:66
+msgid "Validation failed"
+msgstr "Validation failed"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/parseError.ts:70
+msgid "Request failed"
+msgstr "Request failed"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/methods.ts:25
+msgid "Please Wait..."
+msgstr "Please Wait..."
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/methods.ts:26
+msgid "Done"
+msgstr "Done"
+
+#. js-lingui-explicit-id
+#: src/modules/core/utils/methods.ts:27
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#. js-lingui-explicit-id
+#: src/modules/checkout/utils/method.ts:11
+msgid "Please select shipping address"
+msgstr "Please select shipping address"
+
+#. js-lingui-explicit-id
+#: src/modules/checkout/utils/method.ts:16
+msgid "Please select payment method"
+msgstr "Please select payment method"
+
+#. js-lingui-explicit-id
+#: src/modules/checkout/utils/method.ts:25
+msgid "Please upload receipt"
+msgstr "Please upload receipt"
+
+#. js-lingui-explicit-id
+#: src/modules/cart/components/CartCouponSection.tsx:25
+msgid "Coupon code is required"
+msgstr "Coupon code is required"
+
+#. js-lingui-explicit-id
+#: src/modules/cart/components/CartCouponSection.tsx:27
+msgid "Coupon code must be 50 characters or less"
+msgstr "Coupon code must be 50 characters or less"
+
+#. js-lingui-explicit-id
+#: src/modules/cart/components/CartCouponSection.tsx:86
+msgid "Enter coupon code"
+msgstr "Enter coupon code"
+
+#. js-lingui-explicit-id
+#: src/modules/auth/components/ResetPasswordForm.tsx:40
+msgid "Please enter a valid otp code."
+msgstr "Please enter a valid otp code."
+
+#. js-lingui-explicit-id
+#: src/modules/auth/components/RegisterForm.tsx:29
+msgid "First name must be at least 2 characters."
+msgstr "First name must be at least 2 characters."
+
+#. js-lingui-explicit-id
+#: src/modules/auth/components/RegisterForm.tsx:32
+msgid "Last name must be at least 2 characters."
+msgstr "Last name must be at least 2 characters."
+
+#. js-lingui-explicit-id
+#: src/modules/auth/components/RegisterForm.tsx:45
+msgid "You must agree to the terms and conditions."
+msgstr "You must agree to the terms and conditions."
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:21
+msgid "Address title is required"
+msgstr "Address title is required"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:22
+msgid "First name is required"
+msgstr "First name is required"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:23
+msgid "Last name is required"
+msgstr "Last name is required"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:24
+msgid "Detailed address is required"
+msgstr "Detailed address is required"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:25
+msgid "Phone number is required"
+msgstr "Phone number is required"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:26
+msgid "Please enter a valid email"
+msgstr "Please enter a valid email"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:29
+msgid "Government selection is required"
+msgstr "Government selection is required"
+
+#. js-lingui-explicit-id
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:30
+msgid "City selection is required"
+msgstr "City selection is required"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartSideMenu.tsx:109
+#~ msgid " Add items to your cart to see them here."
+#~ msgstr " Add items to your cart to see them here."
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:65
+msgid " This will remove all items from your wishlist. This action cannot be undone."
+msgstr " This will remove all items from your wishlist. This action cannot be undone."
+
+#: src/modules/orders/components/OrdersPagination.tsx:40
+msgid "'No orders found"
+msgstr "'No orders found"
+
+#. placeholder {0}: category.title
+#. placeholder {0}: faq.question
+#. placeholder {0}: faq.answer
+#: src/modules/faq/pages/FaqPage.tsx:86
+#: src/modules/faq/pages/FaqPage.tsx:100
+#: src/modules/faq/pages/FaqPage.tsx:106
+#: src/modules/core/components/LayoutShared/CategoriesSideMenu/CategoriesSideMenuContent.tsx:41
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:45
+#: src/modules/checkout/components/CheckoutPaymentMethods/CheckoutPaymentMethodRecord.tsx:50
+msgid "{0}"
+msgstr "{0}"
+
+#. placeholder {0}: brand.products_count
+#. placeholder {0}: category.products_count
+#: src/modules/home/components/Home_Brands.tsx:93
+#: src/modules/home/components/HomeCategories.tsx:43
+msgid "{0} products"
+msgstr "{0} products"
+
+#. placeholder {0}: product.discounted_percentage
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:39
+msgid "{0}% OFF"
+msgstr "{0}% OFF"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuLangSwitch.tsx:22
+#~ msgid "{0}Locale"
+#~ msgstr "{0}Locale"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:205
+#~ msgid "{currentStatus}"
+#~ msgstr "{currentStatus}"
+
+#: src/modules/home/pages/Home.tsx:5
+#~ msgid "{key}"
+#~ msgstr "{key}"
+
+#. placeholder {0}: new Date().getFullYear()
+#. placeholder {1}: general?.name[ localeStore.getState().localeKey() ] ?? ''
+#: src/modules/core/components/Footer/Footer.tsx:283
+msgid "© {0} {1}. All rights reserved."
+msgstr "© {0} {1}. All rights reserved."
+
+#: src/modules/faq/pages/FaqPage.tsx:146
+msgid "1-800-123-4567"
+msgstr "1-800-123-4567"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:84
+msgid "Access denied"
+msgstr "Access denied"
+
+#: src/modules/orders/pages/OrdersPage.tsx:69
+msgid "Actions"
+msgstr "Actions"
+
+#: src/modules/addresses/pages/AddressesPage.tsx:58
+msgid "Add a new address to get started"
+msgstr "Add a new address to get started"
+
+#: src/modules/cart/components/CartCouponSection.tsx:73
+msgid "Add Coupon Code"
+msgstr "Add Coupon Code"
+
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:65
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:236
+msgid "Add Funds"
+msgstr "Add Funds"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundPopup.tsx:24
+msgid "Add Funds to Your Wallet"
+msgstr "Add Funds to Your Wallet"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:28
+msgid "Add items to your cart to see them here."
+msgstr "Add items to your cart to see them here."
+
+#: src/modules/wishlist/components/WishlistItemGrid.tsx:17
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistSideMenuContent.tsx:23
+msgid "Add items to your wishlist to see them here."
+msgstr "Add items to your wishlist to see them here."
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:53
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:63
+#: src/modules/addresses/pages/AddressesPage.tsx:26
+#: src/modules/addresses/components/CreateAddressModal.tsx:62
+msgid "Add New Address"
+msgstr "Add New Address"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistItemActions.tsx:76
+msgid "Add to cart"
+msgstr "Add to cart"
+
+#: src/modules/shop/components/Products/ProductCard/ProductAddToCartButton.tsx:50
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductAddToCart.tsx:91
+#: src/modules/compare-list/components/CompareListProduct.tsx:120
+msgid "Add to Cart"
+msgstr "Add to Cart"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductToggleCompare.tsx:79
+msgid "Add to Compare"
+msgstr "Add to Compare"
+
+#: src/modules/shop/components/Products/ProductCard/ProductWishlistToggleButton.tsx:48
+msgid "Add to wishlist"
+msgstr "Add to wishlist"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductToggleWishlist.tsx:96
+msgid "Add to Wishlist"
+msgstr "Add to Wishlist"
+
+#: src/modules/shop/components/Products/ProductCard/ProductAddToCartButton.tsx:24
+msgid "Added to Cart"
+msgstr "Added to Cart"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:21
+msgid "Address"
+msgstr "Address"
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:38
+#: src/modules/addresses/components/CreateAddressModal.tsx:49
+msgid "Address created successfully"
+msgstr "Address created successfully"
+
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:49
+msgid "Address deleted successfully"
+msgstr "Address deleted successfully"
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:71
+#: src/modules/addresses/components/CreateAddressModal.tsx:70
+msgid "Address Form"
+msgstr "Address Form"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:119
+msgid "Address Title"
+msgstr "Address Title"
+
+#: src/modules/addresses/components/EditAddressModal.tsx:60
+msgid "Address updated successfully"
+msgstr "Address updated successfully"
+
+#: src/modules/profile/utils/flags.tsx:28
+#: src/modules/profile/utils/flags.tsx:80
+msgid "Addresses"
+msgstr "Addresses"
+
+#: src/modules/profile/components/AddressPage/AddessModal.tsx:154
+#~ msgid "Ahmed Adel"
+#~ msgstr "Ahmed Adel"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:74
+msgid "All"
+msgstr "All"
+
+#: src/modules/core/components/Header/HeaderCategoriesBar.tsx:15
+msgid "All Categories"
+msgstr "All Categories"
+
+#: src/modules/auth/pages/RegisterPage.tsx:33
+msgid "Already have an account?"
+msgstr "Already have an account?"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:117
+msgid "Amount"
+msgstr "Amount"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:44
+msgid "Amount cannot exceed 10,000 EGP"
+msgstr "Amount cannot exceed 10,000 EGP"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:42
+msgid "Amount must be a number"
+msgstr "Amount must be a number"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:43
+msgid "Amount must be at least 10 EGP"
+msgstr "Amount must be at least 10 EGP"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletAmountSlider.tsx:44
+msgid "Amount to use"
+msgstr "Amount to use"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:100
+msgid "An unexpected error occurred. Please try again later."
+msgstr "An unexpected error occurred. Please try again later."
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:107
+#: src/modules/cart/components/CartCouponSection.tsx:126
+msgid "Apply"
+msgstr "Apply"
+
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:64
+msgid "Are you absolutely sure?"
+msgstr "Are you absolutely sure?"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuLangSwitch.tsx:33
+msgid "arLocale"
+msgstr "العربية"
+
+#: src/modules/compare-list/utils/methods.tsx:6
+msgid "Availability"
+msgstr "Availability"
+
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:30
+msgid "Available Balance"
+msgstr "Available Balance"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:81
+msgid "Available for use in this purchase"
+msgstr "Available for use in this purchase"
+
+#: src/modules/auth/pages/ForgetPasswordPage.tsx:34
+msgid "Back to"
+msgstr "Back to"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:38
+msgid "Back to orders"
+msgstr "Back to orders"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutPayments.tsx:30
+msgid "Back to Shipping Address"
+msgstr "Back to Shipping Address"
+
+#: src/modules/terms-and-conditions/pages/TermsAndConditionsPage.tsx:27
+#: src/modules/privacy-policy/pages/PrivacyPolicyPage.tsx:27
+msgid "Back to store"
+msgstr "Back to store"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:97
+#: src/modules/home/components/HomeBestSellers.tsx:17
+msgid "Best Sellers"
+msgstr "Best Sellers"
+
+#: src/modules/shop/components/Shop/ShopFilters.tsx:49
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:122
+#: src/modules/compare-list/utils/methods.tsx:9
+msgid "Brand"
+msgstr "Brand"
+
+#: src/modules/shop/components/Filters/ActiveFilters.tsx:96
+msgid "Brand:"
+msgstr "Brand:"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuLinks.tsx:15
+#: src/modules/core/components/Footer/Footer.tsx:175
+#: src/modules/brands/components/BrandsHero.tsx:8
+#: src/modules/brands/components/BrandsHero.tsx:15
+#: src/modules/brands/components/BrandProductsHero.tsx:18
+msgid "Brands"
+msgstr "Brands"
+
+#: src/modules/core/components/LayoutShared/CategoriesSideMenu/CategoriesSideMenu.tsx:38
+msgid "Browse all product categories"
+msgstr "Browse all product categories"
+
+#: src/modules/categories/components/CategoriesHeader.tsx:22
+msgid "Browse all product categories in our store"
+msgstr "Browse all product categories in our store"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:100
+msgid "Business Hours"
+msgstr "Business Hours"
+
+#: src/modules/faq/pages/FaqPage.tsx:141
+msgid "Call us at:"
+msgstr "Call us at:"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:74
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:224
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:80
+#: src/modules/cart/components/ClearCartButton.tsx:63
+#: src/modules/addresses/components/EditAddressModal.tsx:86
+#: src/modules/addresses/components/CreateAddressModal.tsx:75
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:72
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:51
+msgid "Canceled"
+msgstr "Canceled"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:267
+#~ msgid "Carrier"
+#~ msgstr "Carrier"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuActions/TopMenuCartButton.tsx:27
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:64
+#: src/modules/checkout/components/CheckoutHero.tsx:11
+#: src/modules/cart/components/CartHero.tsx:12
+msgid "Cart"
+msgstr "Cart"
+
+#: src/modules/core/components/LayoutShared/CategoriesSideMenu/CategoriesSideMenu.tsx:35
+#: src/modules/core/components/Footer/Footer.tsx:167
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:38
+#: src/modules/categories/components/CategoryProductsHero.tsx:16
+#: src/modules/categories/components/CategoriesHeader.tsx:9
+#: src/modules/categories/components/CategoriesHeader.tsx:16
+msgid "Categories"
+msgstr "Categories"
+
+#: src/modules/shop/components/Shop/ShopFilters.tsx:35
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:110
+#: src/modules/compare-list/utils/methods.tsx:8
+msgid "Category"
+msgstr "Category"
+
+#: src/modules/shop/components/Filters/ActiveFilters.tsx:75
+msgid "Category:"
+msgstr "Category:"
+
+#: src/modules/profile/utils/flags.tsx:22
+#: src/modules/profile/utils/flags.tsx:70
+#: src/modules/profile/pages/ChangePasswordPage.tsx:140
+msgid "Change Password"
+msgstr "Change Password"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuUserSection.tsx:58
+#~ msgid "changePassword"
+#~ msgstr "changePassword"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:117
+#: src/modules/checkout/components/CheckoutHero.tsx:8
+#: src/modules/checkout/components/CheckoutHero.tsx:12
+msgid "Checkout"
+msgstr "Checkout"
+
+#: src/modules/addresses/components/AddressForm/AddressFormCity.tsx:38
+msgid "City"
+msgstr "City"
+
+#: src/modules/orders/components/OrdersFilters.tsx:42
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:120
+msgid "Clear"
+msgstr "Clear"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:56
+#: src/modules/shop/components/Filters/ActiveFilters.tsx:146
+msgid "Clear All"
+msgstr "Clear All"
+
+#: src/modules/cart/components/ClearCartButton.tsx:46
+msgid "Clear Cart"
+msgstr "Clear Cart"
+
+#: src/modules/cart/components/ClearCartButton.tsx:52
+msgid "Clear your cart?"
+msgstr "Clear your cart?"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:62
+msgid "Clear your wishlist?"
+msgstr "Clear your wishlist?"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenu.tsx:62
+#: src/modules/core/components/LayoutShared/CategoriesSideMenu/CategoriesSideMenu.tsx:51
+#: src/components/ui/sheet.tsx:78
+msgid "Close"
+msgstr "Close"
+
+#: src/modules/profile/utils/flags.tsx:90
+#: src/modules/core/components/Header/TopMenu/TopMenuActions/TopMenuCompareButton.tsx:29
+msgid "Compare"
+msgstr "Compare"
+
+#: src/modules/compare-list/components/CompareListHero.tsx:8
+#: src/modules/compare-list/components/CompareListHero.tsx:11
+msgid "Compare List"
+msgstr "Compare List"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:33
+msgid "Completed"
+msgstr "Completed"
+
+#: src/modules/profile/pages/ChangePasswordPage.tsx:122
+#: src/modules/auth/components/ResetPasswordForm.tsx:171
+#: src/modules/auth/components/RegisterForm.tsx:203
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:115
+msgid "Connect With Us"
+msgstr "Connect With Us"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuLinks.tsx:18
+#~ msgid "Contact"
+#~ msgstr "Contact"
+
+#: src/modules/core/components/Footer/Footer.tsx:229
+#: src/modules/contact-us/components/ContactInfo.tsx:12
+msgid "Contact Information"
+msgstr "Contact Information"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:230
+msgid "Contact Support"
+msgstr "Contact Support"
+
+#: src/modules/core/components/Footer/Footer.tsx:198
+#: src/modules/contact-us/pages/ContactUsPage.tsx:11
+#: src/modules/contact-us/pages/ContactUsPage.tsx:14
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: src/modules/compare-list/pages/CompareListPage.tsx:28
+#: src/modules/checkout/pages/EmptyCheckoutPage.tsx:31
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:30
+#: src/modules/cart/pages/CartPage.tsx:37
+msgid "Continue Shopping"
+msgstr "Continue Shopping"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutAddress.tsx:85
+msgid "Continue to Payment"
+msgstr "Continue to Payment"
+
+#: src/modules/product/components/ProductDetails/ProductShare.tsx:129
+msgid "Copied"
+msgstr "Copied"
+
+#: src/modules/product/components/ProductDetails/ProductShare.tsx:131
+msgid "Copy URL"
+msgstr "Copy URL"
+
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:86
+#: src/modules/cart/components/CartTotals.tsx:64
+msgid "Coupon"
+msgstr "Coupon"
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddAddress.tsx:86
+#: src/modules/addresses/components/CreateAddressModal.tsx:79
+msgid "Create"
+msgstr "Create"
+
+#: src/modules/auth/components/RegisterForm.tsx:243
+msgid "Create account"
+msgstr "Create account"
+
+#: src/modules/profile/pages/ChangePasswordPage.tsx:83
+msgid "Current Password"
+msgstr "Current Password"
+
+#: src/modules/core/components/Footer/Footer.tsx:190
+#: src/modules/contact-us/components/ContactInfo.tsx:51
+msgid "Customer Service"
+msgstr "Customer Service"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:77
+msgid "Customer Support"
+msgstr "Customer Support"
+
+#: src/modules/orders/pages/OrdersPage.tsx:51
+msgid "Date"
+msgstr "Date"
+
+#: src/modules/core/components/Header/TopHeader.tsx:51
+msgid "Days"
+msgstr "Days"
+
+#: src/modules/shop/components/Products/ProductCard/ProductCartUpdateButton.tsx:79
+msgid "Decrease quantity"
+msgstr "Decrease quantity"
+
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddressRadio.tsx:55
+msgid "Default"
+msgstr "Default"
+
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:81
+#: src/modules/addresses/components/AddressCard.tsx:55
+msgid "Delete"
+msgstr "Delete"
+
+#. placeholder {0}: address?.title
+#: src/modules/addresses/components/AddressDeleteAlert.tsx:67
+msgid "Delete {0} address?"
+msgstr "Delete {0} address?"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:280
+#~ msgid "Delivery Information"
+#~ msgstr "Delivery Information"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:80
+msgid "Deposits"
+msgstr "Deposits"
+
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:89
+msgid "Description"
+msgstr "Description"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:178
+msgid "Detailed Address"
+msgstr "Detailed Address"
+
+#: src/modules/auth/components/ResendPasswordButtonProps.tsx:63
+msgid "Didn't receive an email? Check your spam folder or try again."
+msgstr "Didn't receive an email? Check your spam folder or try again."
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:146
+#: src/modules/compare-list/utils/methods.tsx:5
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:75
+#: src/modules/cart/components/CartTotals.tsx:53
+msgid "Discount"
+msgstr "Discount"
+
+#: src/modules/auth/pages/LoginPage.tsx:32
+msgid "Don't have an account?"
+msgstr "Don't have an account?"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:74
+msgid "E-Wallet Balance"
+msgstr "E-Wallet Balance"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:124
+msgid "e.g. Home, Work"
+msgstr "e.g. Home, Work"
+
+#: src/modules/contact-us/components/ContactForm.tsx:157
+msgid "e.g. ORD-12345"
+msgstr "e.g. ORD-12345"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:62
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:108
+#: src/modules/addresses/components/AddressCard.tsx:47
+msgid "Edit"
+msgstr "Edit"
+
+#: src/modules/addresses/components/EditAddressModal.tsx:73
+msgid "Edit Address"
+msgstr "Edit Address"
+
+#: src/modules/addresses/components/EditAddressModal.tsx:81
+msgid "Edit Address Form"
+msgstr "Edit Address Form"
+
+#: src/modules/profile/pages/ProfilePage.tsx:111
+#: src/modules/contact-us/components/ContactInfo.tsx:74
+#: src/modules/contact-us/components/ContactForm.tsx:134
+#: src/modules/auth/components/ResetPasswordForm.tsx:102
+#: src/modules/auth/components/RegisterForm.tsx:144
+#: src/modules/auth/components/LoginForm.tsx:86
+#: src/modules/auth/components/ForgetPasswordForm.tsx:76
+msgid "Email"
+msgstr "Email"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:140
+msgid "Email Address"
+msgstr "Email Address"
+
+#: src/modules/faq/pages/FaqPage.tsx:132
+msgid "Email us at:"
+msgstr "Email us at:"
+
+#: src/modules/core/components/Header/TopMenu/TopMenuLangSwitch.tsx:35
+msgid "enLocale"
+msgstr "English"
+
+#: src/modules/auth/pages/ResetPasswordPage.tsx:22
+msgid "Enter the otp you received and your new password"
+msgstr "Enter the otp you received and your new password"
+
+#: src/modules/auth/pages/RegisterPage.tsx:23
+msgid "Enter your details below to create your account"
+msgstr "Enter your details below to create your account"
+
+#: src/modules/auth/pages/ForgetPasswordPage.tsx:23
+msgid "Enter your email address and we'll send an otp to reset your password"
+msgstr "Enter your email address and we'll send an otp to reset your password"
+
+#: src/modules/auth/pages/LoginPage.tsx:22
+msgid "Enter your email and password to access your account"
+msgstr "Enter your email and password to access your account"
+
+#: src/modules/auth/components/LoginForm.tsx:109
+msgid "Enter your password"
+msgstr "Enter your password"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:285
+#~ msgid "Estimated Delivery"
+#~ msgstr "Estimated Delivery"
+
+#: src/modules/core/components/Footer/Footer.tsx:45
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/modules/profile/components/AddressPage/AddessModal.tsx:130
+#~ msgid "Failed to fetch governments and cities"
+#~ msgstr "Failed to fetch governments and cities"
+
+#: src/modules/core/components/Footer/Footer.tsx:206
+msgid "FAQs"
+msgstr "FAQs"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:47
+#: src/modules/home/components/Home_Brands.tsx:39
+msgid "Featured Brands"
+msgstr "Featured Brands"
+
+#: src/modules/profile/pages/ProfilePage.tsx:173
+msgid "Female"
+msgstr "Female"
+
+#: src/modules/contact-us/components/ContactForm.tsx:97
+msgid "Fill out the form below and we'll get back to you as soon as possible."
+msgstr "Fill out the form below and we'll get back to you as soon as possible."
+
+#: src/modules/shop/components/Shop/FiltersSidebar.tsx:31
+msgid "Filters"
+msgstr "Filters"
+
+#: src/modules/faq/pages/FaqPage.tsx:49
+msgid "Find answers to common questions about our products, shipping, returns, and more. If you can't find what you're looking for, please contact our customer support team."
+msgstr "Find answers to common questions about our products, shipping, returns, and more. If you can't find what you're looking for, please contact our customer support team."
+
+#: src/modules/auth/components/RegisterForm.tsx:105
+#: src/modules/auth/components/RegisterForm.tsx:109
+msgid "First name"
+msgstr "First name"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:87
+msgid "First Name"
+msgstr "First Name"
+
+#: src/modules/auth/pages/ForgetPasswordPage.tsx:20
+msgid "Forget Password"
+msgstr "Forget Password"
+
+#: src/modules/auth/components/LoginForm.tsx:140
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:111
+#: src/modules/cart/components/CartTotals.tsx:80
+msgid "Free"
+msgstr "Free"
+
+#: src/modules/faq/components/FaqHero.tsx:8
+#: src/modules/faq/components/FaqHero.tsx:12
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletAmountSlider.tsx:67
+msgid "From wallet"
+msgstr "From wallet"
+
+#: src/modules/profile/pages/ProfilePage.tsx:155
+msgid "Gender"
+msgstr "Gender"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:52
+#: src/modules/errors/components/BaseErrorPage.tsx:92
+msgid "Go back"
+msgstr "Go back"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:47
+#: src/modules/errors/components/BaseErrorPage.tsx:67
+#: src/modules/errors/components/BaseErrorPage.tsx:87
+#: src/modules/errors/components/BaseErrorPage.tsx:107
+msgid "Go back home"
+msgstr "Go back home"
+
+#: src/modules/addresses/components/AddressForm/AddressFormGovernmentCityInput.tsx:51
+msgid "Government"
+msgstr "Government"
+
+#: src/modules/auth/components/PasswordInput.tsx:27
+msgid "Hide password"
+msgstr "Hide password"
+
+#: src/modules/tags/components/TagProductsHero.tsx:14
+#: src/modules/shop/components/Shop/ShopHero.tsx:10
+#: src/modules/profile/components/ProfileLayout/ProfileHeroSection.tsx:16
+#: src/modules/product/components/ProductHero.tsx:24
+#: src/modules/my-wallet/components/MyWalletHero.tsx:10
+#: src/modules/faq/components/FaqHero.tsx:10
+#: src/modules/core/components/Footer/Footer.tsx:151
+#: src/modules/contact-us/pages/ContactUsPage.tsx:13
+#: src/modules/compare-list/components/CompareListHero.tsx:10
+#: src/modules/checkout/components/CheckoutHero.tsx:10
+#: src/modules/categories/components/CategoryProductsHero.tsx:14
+#: src/modules/categories/components/CategoriesHeader.tsx:12
+#: src/modules/cart/components/CartHero.tsx:11
+#: src/modules/brands/components/BrandsHero.tsx:11
+#: src/modules/brands/components/BrandProductsHero.tsx:16
+msgid "Home"
+msgstr "Home"
+
+#: src/modules/home/components/HomeBanner.tsx:6
+#~ msgid "HomeBanner"
+#~ msgstr "HomeBanner"
+
+#: src/modules/core/components/Header/TopHeader.tsx:58
+msgid "Hours"
+msgstr "Hours"
+
+#: src/modules/auth/components/RegisterForm.tsx:230
+msgid "I agree to the terms and conditions"
+msgstr "I agree to the terms and conditions"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:217
+msgid "If you have any questions about your order, please contact our customer support."
+msgstr "If you have any questions about your order, please contact our customer support."
+
+#: src/modules/contact-us/components/ContactForm.tsx:162
+msgid "If your inquiry is about a specific order, please provide the order number."
+msgstr "If your inquiry is about a specific order, please provide the order number."
+
+#: src/modules/orders/components/OrderItemsTable.tsx:96
+msgid "Image"
+msgstr "Image"
+
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:73
+msgid "In Stock"
+msgstr "In Stock"
+
+#. placeholder {0}: product.stock
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:58
+msgid "In Stock ({0})"
+msgstr "In Stock ({0})"
+
+#: src/modules/shop/components/Products/ProductCard/ProductCartUpdateButton.tsx:100
+msgid "Increase quantity"
+msgstr "Increase quantity"
+
+#: src/modules/core/components/Footer/Footer.tsx:67
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:41
+msgid "item"
+msgstr "item"
+
+#: src/modules/wishlist/pages/WishlistPage.tsx:43
+msgid "items"
+msgstr "items"
+
+#: src/modules/orders/pages/OrdersPage.tsx:63
+msgid "Items"
+msgstr "Items"
+
+#: src/modules/auth/components/RegisterForm.tsx:124
+#: src/modules/auth/components/RegisterForm.tsx:128
+msgid "Last name"
+msgstr "Last name"
+
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:102
+msgid "Last Name"
+msgstr "Last Name"
+
+#. placeholder {0}: format(new Date(), 'dd MMMM yyyy')
+#: src/modules/terms-and-conditions/pages/TermsAndConditionsPage.tsx:49
+#: src/modules/privacy-policy/pages/PrivacyPolicyPage.tsx:49
+msgid "Last updated: {0}"
+msgstr "Last updated: {0}"
+
+#: src/modules/shop/components/Products/ProductCard/ProductCard.tsx:43
+msgid "Limited Stock"
+msgstr "Limited Stock"
+
+#: src/modules/core/components/Footer/Footer.tsx:134
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: src/modules/auth/pages/RegisterPage.tsx:38
+#: src/modules/auth/pages/ForgetPasswordPage.tsx:39
+msgid "log in"
+msgstr "log in"
+
+#: src/modules/auth/components/LoginForm.tsx:74
+msgid "Logged in successfully"
+msgstr "Logged in successfully"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenuContent.tsx:42
+#: src/modules/core/components/Header/TopMenu/TopMenuUserSection/TopMenuUserContent.tsx:21
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:80
+#: src/modules/auth/pages/LoginPage.tsx:19
+msgid "Login"
+msgstr "Login"
+
+#: src/routes/$locale/index.tsx:51
+#~ msgid "login as guest"
+#~ msgstr "login as guest"
+
+#: src/modules/core/components/Header/TopMenu/LogOutLink.tsx:26
+msgid "Logout"
+msgstr "Logout"
+
+#: src/modules/cart/pages/CartPage.tsx:30
+msgid "Looks like you haven't added anything to your cart yet."
+msgstr "Looks like you haven't added anything to your cart yet."
+
+#: src/modules/checkout/pages/EmptyCheckoutPage.tsx:22
+msgid "Looks like you haven't added anything to your cart yet. Continue shopping to find something you'll love."
+msgstr "Looks like you haven't added anything to your cart yet. Continue shopping to find something you'll love."
+
+#. placeholder {0}: product.stock
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:66
+msgid "Low Stock - Only {0} left"
+msgstr "Low Stock - Only {0} left"
+
+#: src/modules/core/components/Footer/Footer.tsx:292
+msgid "Made with <0>❤️</0> by <1>Ahmed Adel</1>"
+msgstr "Made with <0>❤️</0> by <1>Ahmed Adel</1>"
+
+#: src/modules/profile/pages/ProfilePage.tsx:170
+msgid "Male"
+msgstr "Male"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenu.tsx:41
+msgid "Manage your account and preferences"
+msgstr "Manage your account and preferences"
+
+#: src/modules/contact-us/components/ContactForm.tsx:226
+msgid "Message"
+msgstr "Message"
+
+#: src/modules/contact-us/components/ContactForm.tsx:84
+msgid "Message sent, We'll get back to you as soon as possible."
+msgstr "Message sent, We'll get back to you as soon as possible."
+
+#: src/modules/core/components/Header/TopHeader.tsx:65
+msgid "Minutes"
+msgstr "Minutes"
+
+#: src/modules/addresses/pages/AddressesSkeletonPage.tsx:18
+#: src/modules/addresses/pages/AddressesPage.tsx:18
+msgid "My Addresses"
+msgstr "My Addresses"
+
+#: src/modules/profile/utils/flags.tsx:46
+#: src/modules/profile/utils/flags.tsx:95
+#: src/modules/my-wallet/components/MyWalletHero.tsx:8
+#: src/modules/my-wallet/components/MyWalletHero.tsx:12
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:19
+msgid "My Wallet"
+msgstr "My Wallet"
+
+#: src/modules/profile/pages/ProfilePage.tsx:92
+#: src/modules/profile/pages/ProfilePage.tsx:96
+#: src/modules/contact-us/components/ContactForm.tsx:115
+msgid "Name"
+msgstr "Name"
+
+#: src/modules/auth/components/LoginForm.tsx:90
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:212
+msgid "Need Help?"
+msgstr "Need Help?"
+
+#: src/modules/cart/pages/CartPage.tsx:68
+msgid "Need help? Contact our support team"
+msgstr "Need help? Contact our support team"
+
+#: src/modules/shop/components/Products/ProductCard/ProductCard.tsx:31
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:79
+#: src/modules/compare-list/components/CompareListProduct.tsx:93
+msgid "New"
+msgstr "New"
+
+#: src/modules/compare-list/utils/methods.tsx:7
+msgid "New Product"
+msgstr "New Product"
+
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:31
+msgid "Newest First"
+msgstr "Newest First"
+
+#: src/modules/shop/components/Shop/ShopPagination.tsx:199
+msgid "Next"
+msgstr "Next"
+
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:85
+msgid "No"
+msgstr "No"
+
+#: src/modules/addresses/pages/AddressesPage.tsx:55
+msgid "No addresses found"
+msgstr "No addresses found"
+
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:46
+msgid "No discount"
+msgstr "No discount"
+
+#: src/modules/faq/pages/FaqPage.tsx:74
+msgid "No FAQs found matching your search. Please try different keywords."
+msgstr "No FAQs found matching your search. Please try different keywords."
+
+#: src/modules/orders/pages/OrdersPage.tsx:80
+msgid "No orders found."
+msgstr "No orders found."
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:178
+msgid "No payment methods available"
+msgstr "No payment methods available"
+
+#: src/modules/compare-list/pages/CompareListPage.tsx:25
+msgid "No products to compare"
+msgstr "No products to compare"
+
+#: src/modules/core/components/LayoutShared/SearchCommand/SearchCommandResult.tsx:19
+msgid "No results found."
+msgstr "No results found."
+
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:35
+msgid "Oldest First"
+msgstr "Oldest First"
+
+#: src/modules/core/components/FormFileUploadInput/FileUploadInput.tsx:41
+msgid "Only images and PDFs are allowed"
+msgstr "Only images and PDFs are allowed"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:181
+#~ msgid "Order"
+#~ msgstr "Order"
+
+#. placeholder {0}: order.id
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:44
+msgid "Order #{0}"
+msgstr "Order #{0}"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:77
+msgid "Order Date"
+msgstr "Order Date"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:64
+msgid "Order details and status"
+msgstr "Order details and status"
+
+#: src/modules/orders/pages/OrdersPage.tsx:48
+msgid "Order ID"
+msgstr "Order ID"
+
+#: src/modules/orders/components/OrderItemsTable.tsx:28
+#: src/modules/orders/components/OrderItemsTable.tsx:31
+msgid "Order Items"
+msgstr "Order Items"
+
+#: src/modules/contact-us/components/ContactForm.tsx:153
+msgid "Order Number (Optional)"
+msgstr "Order Number (Optional)"
+
+#: src/modules/checkout/components/CheckoutPlaceOrderButton.tsx:49
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutPlaceOrderButton.tsx:49
+msgid "Order placed successfully"
+msgstr "Order placed successfully"
+
+#: src/modules/contact-us/components/ContactForm.tsx:194
+msgid "Order Status"
+msgstr "Order Status"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:61
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:27
+#: src/modules/cart/components/CartTotals.tsx:35
+msgid "Order Summary"
+msgstr "Order Summary"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:122
+msgid "Order Total"
+msgstr "Order Total"
+
+#: src/modules/profile/utils/flags.tsx:40
+#: src/modules/profile/utils/flags.tsx:52
+#: src/modules/profile/utils/flags.tsx:75
+msgid "Orders"
+msgstr "Orders"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:59
+msgid "Orders & Returns"
+msgstr "Orders & Returns"
+
+#: src/modules/contact-us/components/ContactForm.tsx:211
+msgid "Other"
+msgstr "Other"
+
+#: src/modules/auth/components/ResetPasswordForm.tsx:122
+msgid "OTP Code"
+msgstr "OTP Code"
+
+#: src/modules/auth/components/ForgetPasswordForm.tsx:57
+msgid "OTP sent successfully"
+msgstr "OTP sent successfully"
+
+#: src/modules/faq/pages/FaqPage.tsx:125
+msgid "Our customer support team is here to help you with any questions or concerns."
+msgstr "Our customer support team is here to help you with any questions or concerns."
+
+#: src/modules/shop/components/Products/ProductCard/ProductAddToCartButton.tsx:56
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:59
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductAddToCart.tsx:93
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:65
+msgid "Out of Stock"
+msgstr "Out of Stock"
+
+#. placeholder {0}: paginationInfo.current_page
+#. placeholder {1}: paginationInfo.last_page
+#: src/modules/shop/components/Shop/ShopPagination.tsx:142
+#: src/modules/orders/components/OrdersPagination.tsx:76
+msgid "Page {0} of {1}"
+msgstr "Page {0} of {1}"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:44
+msgid "Page not found"
+msgstr "Page not found"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletSection.tsx:20
+msgid "Partial Pay with E-Wallet"
+msgstr "Partial Pay with E-Wallet"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:59
+msgid "Partial Payment"
+msgstr "Partial Payment"
+
+#: src/modules/profile/pages/ChangePasswordPage.tsx:103
+#: src/modules/auth/components/ResetPasswordForm.tsx:153
+#: src/modules/auth/components/RegisterForm.tsx:184
+#: src/modules/auth/components/LoginForm.tsx:105
+msgid "Password"
+msgstr "Password"
+
+#: src/modules/profile/pages/ChangePasswordPage.tsx:63
+msgid "Password changed successfully"
+msgstr "Password changed successfully"
+
+#: src/modules/auth/components/LoginForm.tsx:38
+msgid "Password must be at least 8 characters"
+msgstr "Password must be at least 8 characters"
+
+#: src/modules/auth/components/ResetPasswordForm.tsx:80
+msgid "Password reset successfully"
+msgstr "Password reset successfully"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:57
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletCard.tsx:67
+msgid "Pay with E-Wallet"
+msgstr "Pay with E-Wallet"
+
+#: src/modules/checkout/components/GuestCheckout/CheckoutProgress.tsx:20
+msgid "Payment"
+msgstr "Payment"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:19
+msgid "Payment Failed!"
+msgstr "Payment Failed!"
+
+#: src/modules/orders/pages/OrdersPage.tsx:60
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:88
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:150
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:87
+#: src/modules/checkout/components/CheckoutPaymentMethods/CheckoutPaymentMethods.tsx:25
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: src/modules/orders/pages/OrdersPage.tsx:57
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:99
+msgid "Payment Status"
+msgstr "Payment Status"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:18
+msgid "Payment Successful!"
+msgstr "Payment Successful!"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:20
+msgid "Payment Warning!"
+msgstr "Payment Warning!"
+
+#: src/modules/core/components/FormFileUploadInput/FileUploadInput.tsx:109
+msgid "PDF File"
+msgstr "PDF File"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:42
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:39
+msgid "Pending"
+msgstr "Pending"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:200
+msgid "Phone"
+msgstr "Phone"
+
+#: src/modules/profile/pages/ProfilePage.tsx:133
+#: src/modules/auth/components/RegisterForm.tsx:164
+#: src/modules/addresses/components/AddressForm/AddressForm.tsx:156
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: src/modules/checkout/components/CheckoutPlaceOrderButton.tsx:87
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutPlaceOrderButton.tsx:84
+msgid "Place Order"
+msgstr "Place Order"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:181
+#~ msgid "Placed on"
+#~ msgstr "Placed on"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:47
+#~ msgid "Placed on {formattedDate}"
+#~ msgstr "Placed on {formattedDate}"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:47
+msgid "Placed on <0>{formattedDate}</0>"
+msgstr "Placed on <0>{formattedDate}</0>"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:75
+msgid "Please check your internet connection and try again."
+msgstr "Please check your internet connection and try again."
+
+#: src/modules/contact-us/components/ContactForm.tsx:230
+msgid "Please describe your inquiry in detail..."
+msgstr "Please describe your inquiry in detail..."
+
+#: src/modules/auth/components/LoginForm.tsx:35
+msgid "Please enter a valid email"
+msgstr "Please enter a valid email"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutAddress.tsx:61
+msgid "Please enter your shipping address to continue."
+msgstr "Please enter your shipping address to continue."
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:45
+msgid "Please select a payment method"
+msgstr "Please select a payment method"
+
+#: src/modules/checkout/components/CheckoutPlaceOrderButton.tsx:86
+#~ msgid "Please select payment method"
+#~ msgstr "Please select payment method"
+
+#: src/modules/checkout/components/CheckoutPlaceOrderButton.tsx:81
+#~ msgid "Please select shipping address"
+#~ msgstr "Please select shipping address"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:69
+msgid "Please upload receipt"
+msgstr "Please upload receipt"
+
+#: src/routes/index.tsx:21
+msgid "Please wait a few seconds"
+msgstr "Please wait a few seconds"
+
+#: src/modules/shop/components/Shop/ShopPagination.tsx:74
+msgid "Previous"
+msgstr "Previous"
+
+#: src/modules/shop/components/Shop/ShopFilters.tsx:63
+#: src/modules/orders/components/OrderItemsTable.tsx:68
+#: src/modules/orders/components/OrderItemsTable.tsx:102
+#: src/modules/compare-list/utils/methods.tsx:4
+msgid "Price"
+msgstr "Price"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:383
+#~ msgid "Price Details"
+#~ msgstr "Price Details"
+
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:27
+msgid "Price: High to Low"
+msgstr "Price: High to Low"
+
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:23
+msgid "Price: Low to High"
+msgstr "Price: Low to High"
+
+#: src/modules/terms-and-conditions/pages/TermsAndConditionsPage.tsx:38
+#: src/modules/privacy-policy/pages/PrivacyPolicyPage.tsx:38
+msgid "Print"
+msgstr "Print"
+
+#: src/modules/privacy-policy/pages/PrivacyPolicyPage.tsx:46
+#: src/modules/core/components/Footer/Footer.tsx:214
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: src/modules/cart/components/CartTotals.tsx:109
+msgid "Proceed to Checkout"
+msgstr "Proceed to Checkout"
+
+#: src/modules/orders/components/OrderItemsTable.tsx:99
+#: src/modules/compare-list/components/CompareListDesktopView.tsx:24
+msgid "Product"
+msgstr "Product"
+
+#. placeholder {0}: activeProductIndex + 1
+#. placeholder {1}: comparedProducts.length
+#: src/modules/compare-list/components/CompareListMobileView.tsx:54
+msgid "Product {0} of {1}"
+msgstr "Product {0} of {1}"
+
+#: src/modules/compare-list/pages/CompareListPage.tsx:21
+#: src/modules/compare-list/components/CompareListMobileView.tsx:41
+msgid "Product Comparison"
+msgstr "Product Comparison"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistItemActions.tsx:74
+msgid "Product in cart"
+msgstr "Product in cart"
+
+#: src/modules/contact-us/components/ContactForm.tsx:200
+msgid "Product Inquiry"
+msgstr "Product Inquiry"
+
+#: src/modules/categories/components/CategoryGrid.tsx:39
+msgid "products"
+msgstr "products"
+
+#: src/modules/profile/utils/flags.tsx:16
+#: src/modules/profile/utils/flags.tsx:65
+#: src/modules/profile/components/ProfileLayout/ProfileHeroSection.tsx:17
+#: src/modules/profile/components/ProfileLayout/ProfileHeroSection.tsx:22
+#: src/modules/profile/components/ProfileLayout/ProfileHeroSection.tsx:29
+#: src/modules/my-wallet/components/MyWalletHero.tsx:11
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:78
+msgid "Profile"
+msgstr "Profile"
+
+#: src/modules/profile/pages/ProfilePage.tsx:73
+msgid "Profile updated successfully"
+msgstr "Profile updated successfully"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:77
+msgid "Purchases"
+msgstr "Purchases"
+
+#: src/modules/orders/components/OrderItemsTable.tsx:74
+#: src/modules/orders/components/OrderItemsTable.tsx:105
+msgid "Qty"
+msgstr "Qty"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductAddToCart.tsx:50
+msgid "Quantity"
+msgstr "Quantity"
+
+#. placeholder {0}: item.quantity
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:48
+msgid "Quantity: {0}"
+msgstr "Quantity: {0}"
+
+#: src/modules/core/components/Footer/Footer.tsx:143
+msgid "Quick Links"
+msgstr "Quick Links"
+
+#: src/modules/my-wallet/components/MyWalletTransactionList.tsx:67
+msgid "Recent Transactions"
+msgstr "Recent Transactions"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenuContent.tsx:54
+#: src/modules/core/components/Header/TopMenu/TopMenuUserSection/TopMenuUserContent.tsx:26
+#: src/modules/auth/pages/RegisterPage.tsx:20
+msgid "Register"
+msgstr "Register"
+
+#: src/modules/auth/components/RegisterForm.tsx:90
+msgid "Registered successfully"
+msgstr "Registered successfully"
+
+#: src/modules/checkout/components/CheckoutWalletSection/CheckoutWalletAmountSlider.tsx:75
+msgid "Remaining to pay"
+msgstr "Remaining to pay"
+
+#: src/modules/auth/components/LoginForm.tsx:123
+#~ msgid "Remember me"
+#~ msgstr "Remember me"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistItemActions.tsx:76
+#~ msgid "remove from wishlist"
+#~ msgstr "remove from wishlist"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistItemActions.tsx:101
+msgid "Remove from wishlist"
+msgstr "Remove from wishlist"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductToggleWishlist.tsx:94
+msgid "Remove from Wishlist"
+msgstr "Remove from Wishlist"
+
+#: src/modules/auth/components/ResendPasswordButtonProps.tsx:56
+msgid "Resend in"
+msgstr "Resend in"
+
+#: src/modules/auth/components/ResendPasswordButtonProps.tsx:58
+msgid "Resend password reset otp"
+msgstr "Resend password reset otp"
+
+#: src/modules/auth/pages/ResetPasswordPage.tsx:19
+#: src/modules/auth/components/ResetPasswordForm.tsx:188
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: src/modules/contact-us/components/ContactForm.tsx:197
+msgid "Returns & Refunds"
+msgstr "Returns & Refunds"
+
+#: src/modules/checkout/components/GuestCheckout/CheckoutProgress.tsx:21
+msgid "Review"
+msgstr "Review"
+
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:34
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutPayments.tsx:41
+msgid "Review Order"
+msgstr "Review Order"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:85
+msgid "Sales Inquiries"
+msgstr "Sales Inquiries"
+
+#: src/modules/profile/pages/ProfilePage.tsx:191
+msgid "Save"
+msgstr "Save"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:53
+#: src/modules/home/components/Home_Brands.tsx:49
+msgid "Scroll left"
+msgstr "Scroll left"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:59
+#: src/modules/home/components/Home_Brands.tsx:59
+msgid "Scroll right"
+msgstr "Scroll right"
+
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:51
+msgid "search"
+msgstr "search"
+
+#: src/modules/core/components/LayoutShared/SearchCommand/SearchCommandContent.tsx:44
+#: src/modules/core/components/Header/TopMenu/TopMenuSearch.tsx:17
+msgid "Search ..."
+msgstr "Search ..."
+
+#: src/modules/core/components/Header/TopHeader.tsx:72
+msgid "Seconds"
+msgstr "Seconds"
+
+#: src/modules/profile/pages/ProfilePage.tsx:164
+msgid "select"
+msgstr "select"
+
+#: src/modules/contact-us/components/ContactForm.tsx:188
+msgid "Select a subject"
+msgstr "Select a subject"
+
+#: src/modules/contact-us/components/ContactForm.tsx:248
+msgid "Send Message"
+msgstr "Send Message"
+
+#: src/modules/auth/components/ForgetPasswordForm.tsx:94
+msgid "Send OTP Code"
+msgstr "Send OTP Code"
+
+#: src/modules/contact-us/components/ContactForm.tsx:94
+msgid "Send us a message"
+msgstr "Send us a message"
+
+#: src/modules/auth/components/ResendPasswordButtonProps.tsx:53
+msgid "Sending..."
+msgstr "Sending..."
+
+#: src/modules/product/components/ProductDetails/ProductShare.tsx:39
+msgid "Share this product"
+msgstr "Share this product"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:197
+#~ msgid "Shipment Status"
+#~ msgstr "Shipment Status"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:156
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:105
+#: src/modules/checkout/components/GuestCheckout/CheckoutProgress.tsx:19
+#: src/modules/cart/components/CartTotals.tsx:74
+msgid "Shipping"
+msgstr "Shipping"
+
+#: src/modules/contact-us/components/ContactForm.tsx:203
+msgid "Shipping & Delivery"
+msgstr "Shipping & Delivery"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:181
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutReview.tsx:44
+#: src/modules/checkout/components/GuestCheckout/GuestCheckoutAddress.tsx:58
+#: src/modules/checkout/components/CheckoutAddresses/CheckoutAddresses.tsx:17
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:104
+msgid "Shipping calculated at checkout."
+msgstr "Shipping calculated at checkout."
+
+#: src/modules/tags/components/TagProductsHero.tsx:16
+#: src/modules/shop/components/Shop/ShopHero.tsx:8
+#: src/modules/shop/components/Shop/ShopHero.tsx:11
+#: src/modules/product/components/ProductHero.tsx:25
+#: src/modules/core/components/Header/TopMenu/TopMenuLinks.tsx:9
+#: src/modules/core/components/Footer/Footer.tsx:159
+#: src/modules/core/components/Footer/Footer.tsx:183
+#: src/modules/core/components/BottomMenu/BottomMenu.tsx:22
+msgid "Shop"
+msgstr "Shop"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:18
+#: src/modules/home/components/HomeCategories.tsx:15
+msgid "Shop by Category"
+msgstr "Shop by Category"
+
+#: src/modules/home/components/HomeBanner.tsx:43
+msgid "Shop Now"
+msgstr "Shop Now"
+
+#: src/modules/cart/components/CartHero.tsx:9
+msgid "Shopping Cart"
+msgstr "Shopping Cart"
+
+#: src/modules/auth/components/PasswordInput.tsx:27
+msgid "Show password"
+msgstr "Show password"
+
+#. placeholder {0}: paginationInfo.from
+#. placeholder {1}: paginationInfo.to
+#. placeholder {2}: paginationInfo.total
+#: src/modules/orders/components/OrdersPagination.tsx:35
+msgid "Showing {0} to {1} of {2} orders"
+msgstr "Showing {0} to {1} of {2} orders"
+
+#: src/modules/auth/components/LoginForm.tsx:145
+msgid "Sign in"
+msgstr "Sign in"
+
+#: src/modules/auth/pages/LoginPage.tsx:37
+msgid "Sign up"
+msgstr "Sign up"
+
+#. placeholder {0}: product.sku
+#. placeholder {0}: item.product.sku
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:23
+#: src/modules/orders/components/OrderItemsTable.tsx:59
+#: src/modules/orders/components/OrderItemsTable.tsx:134
+#: src/modules/compare-list/components/CompareListProduct.tsx:102
+#: src/modules/cart/components/CartItemCard.tsx:30
+msgid "SKU: {0}"
+msgstr "SKU: {0}"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:59
+#: src/modules/errors/components/BaseErrorPage.tsx:99
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:45
+msgid "Sorry, we couldn't find the page you're looking for."
+msgstr "Sorry, we couldn't find the page you're looking for."
+
+#: src/modules/errors/components/BaseErrorPage.tsx:60
+msgid "Sorry, we encountered an error processing your request. Our team has been notified."
+msgstr "Sorry, we encountered an error processing your request. Our team has been notified."
+
+#: src/modules/errors/components/BaseErrorPage.tsx:85
+msgid "Sorry, you don't have permission to access this page."
+msgstr "Sorry, you don't have permission to access this page."
+
+#: src/modules/shop/pages/ShopSkeleton.tsx:64
+#: src/modules/shop/components/Products/ProductsSidebarGridSkeleton.tsx:61
+msgid "Sort"
+msgstr "Sort"
+
+#. placeholder {0}: activeSortBy && <>: {activeSortBy.label}</>
+#: src/modules/shop/components/Shop/ShopSortMenu.tsx:70
+msgid "Sort{0}"
+msgstr "Sort{0}"
+
+#: src/modules/orders/pages/OrdersPage.tsx:54
+msgid "Status"
+msgstr "Status"
+
+#: src/modules/faq/pages/FaqPage.tsx:122
+msgid "Still have questions?"
+msgstr "Still have questions?"
+
+#: src/modules/contact-us/components/ContactForm.tsx:179
+msgid "Subject"
+msgstr "Subject"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:129
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:99
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:68
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#. placeholder {0}: totals.items
+#. placeholder {1}: totals.items === 1 ? 'item' : 'items'
+#: src/modules/cart/components/CartTotals.tsx:42
+msgid "Subtotal ({0} {1})"
+msgstr "Subtotal ({0} {1})"
+
+#: src/modules/faq/pages/FaqPage.tsx:137
+msgid "support@example.com"
+msgstr "support@example.com"
+
+#: src/modules/shop/components/Shop/ShopFilters.tsx:77
+msgid "Tag"
+msgstr "Tag"
+
+#: src/modules/shop/components/Filters/ActiveFilters.tsx:124
+msgid "Tag:"
+msgstr "Tag:"
+
+#: src/modules/tags/components/TagProductsHero.tsx:20
+#: src/modules/product/components/ProductDetails/ProductDetails.tsx:132
+msgid "Tags"
+msgstr "Tags"
+
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:117
+msgid "Tax"
+msgstr "Tax"
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:137
+#: src/modules/cart/components/CartTotals.tsx:87
+msgid "Taxes"
+msgstr "Taxes"
+
+#: src/modules/contact-us/components/ContactForm.tsx:208
+msgid "Technical Issue"
+msgstr "Technical Issue"
+
+#: src/modules/core/components/Footer/Footer.tsx:222
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#: src/modules/terms-and-conditions/pages/TermsAndConditionsPage.tsx:46
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+#: src/modules/cart/components/ClearCartButton.tsx:55
+msgid "This will remove all items from your cart. This action cannot be undone."
+msgstr "This will remove all items from your cart. This action cannot be undone."
+
+#: src/modules/orders/pages/OrdersPage.tsx:66
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:166
+#: src/modules/orders/components/OrderItemsTable.tsx:80
+#: src/modules/orders/components/OrderItemsTable.tsx:108
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:124
+#: src/modules/cart/components/CartTotals.tsx:97
+msgid "Total"
+msgstr "Total"
+
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:48
+msgid "Total Balance"
+msgstr "Total Balance"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:178
+#~ msgid "Track Your Order"
+#~ msgstr "Track Your Order"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:200
+#~ msgid "Tracking Number"
+#~ msgstr "Tracking Number"
+
+#: src/modules/my-wallet/components/MyWalletBalanceCard.tsx:76
+msgid "Transactions"
+msgstr "Transactions"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:62
+#: src/modules/errors/components/BaseErrorPage.tsx:77
+#: src/modules/errors/components/BaseErrorPage.tsx:102
+msgid "Try again"
+msgstr "Try again"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:31
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:32
+msgid "Try Again"
+msgstr "Try Again"
+
+#: src/modules/core/components/Footer/Footer.tsx:89
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/modules/addresses/components/EditAddressModal.tsx:90
+msgid "Update"
+msgstr "Update"
+
+#: src/modules/my-wallet/components/MyWalletAddFundPopup/MyWalletAddFundForm.tsx:204
+#: src/modules/checkout/components/CheckoutPaymentMethods/CheckoutPaymentMethodRecord.tsx:80
+msgid "Upload proof of payment"
+msgstr "Upload proof of payment"
+
+#: src/modules/core/components/LayoutShared/UserSideMenu/UserSideMenu.tsx:38
+msgid "User Account"
+msgstr "User Account"
+
+#: src/modules/home/pages/HomeSkeletonPage.tsx:101
+#: src/modules/home/components/HomeBestSellers.tsx:25
+msgid "View all"
+msgstr "View all"
+
+#: src/modules/home/components/HomeBanner.tsx:60
+msgid "View Brand"
+msgstr "View Brand"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:270
+#~ msgid "View Carrier Details"
+#~ msgstr "View Carrier Details"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:110
+msgid "View Cart"
+msgstr "View Cart"
+
+#: src/modules/home/components/HomeBanner.tsx:52
+msgid "View Category"
+msgstr "View Category"
+
+#: src/modules/orders/pages/OrdersPage.tsx:151
+msgid "View Details"
+msgstr "View Details"
+
+#: src/modules/contact-us/components/ContactInfo.tsx:40
+msgid "View on map"
+msgstr "View on map"
+
+#: src/modules/home/components/HomeBanner.tsx:56
+msgid "View Product"
+msgstr "View Product"
+
+#. placeholder {0}: brand.products_count
+#: src/modules/brands/components/BrandGrid.tsx:34
+msgid "View Products ({0})"
+msgstr "View Products ({0})"
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistSideMenu.tsx:53
+msgid "View Wishlist"
+msgstr "View Wishlist"
+
+#: src/modules/checkout/components/CheckoutOrderSummary.tsx:96
+msgid "Wallet"
+msgstr "Wallet"
+
+#: src/modules/contact-us/pages/ContactUsPage.tsx:25
+msgid "We're here to help! Fill out the form below or use our contact information."
+msgstr "We're here to help! Fill out the form below or use our contact information."
+
+#: src/modules/orders/pages/OrderDetailsPage/OrderDetailsPage.tsx:184
+msgid "Where your order will be delivered"
+msgstr "Where your order will be delivered"
+
+#: src/modules/profile/utils/flags.tsx:34
+#: src/modules/profile/utils/flags.tsx:85
+#: src/modules/core/components/Header/TopMenu/TopMenuActions/TopMenuWishlistButton.tsx:27
+msgid "Wishlist"
+msgstr "Wishlist"
+
+#: src/modules/compare-list/components/CompareListRenderAttribute.tsx:78
+msgid "Yes"
+msgstr "Yes"
+
+#: src/modules/errors/components/BaseErrorPage.tsx:74
+msgid "You are offline"
+msgstr "You are offline"
+
+#: src/modules/product/components/RelatedProducts.tsx:19
+msgid "You might also like"
+msgstr "You might also like"
+
+#: src/modules/product/components/ProductDetails/ProductAddToCart/ProductToggleCompare.tsx:32
+msgid "You must be logged in to compare products"
+msgstr "You must be logged in to compare products"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartSideMenu.tsx:32
+msgid "Your Cart"
+msgstr "Your Cart"
+
+#: src/modules/core/components/LayoutShared/CartSideMenu/CartMenuContent.tsx:25
+#: src/modules/checkout/pages/EmptyCheckoutPage.tsx:18
+#: src/modules/cart/pages/CartPage.tsx:27
+msgid "Your cart is empty"
+msgstr "Your cart is empty"
+
+#: src/modules/contact-us/components/ContactForm.tsx:119
+msgid "Your name"
+msgstr "Your name"
+
+#: src/modules/orders/pages/TrackOrderPage/TrackOrderPage.tsx:253
+#~ msgid "Your package is on its way to you"
+#~ msgstr "Your package is on its way to you"
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:24
+msgid "Your payment has been processed successfully. A receipt has been sent to your email."
+msgstr "Your payment has been processed successfully. A receipt has been sent to your email."
+
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:25
+#: src/modules/checkout/components/CheckoutPaymentStatusModal.tsx:26
+msgid "Your payment has failed. Please try again."
+msgstr "Your payment has failed. Please try again."
+
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistSideMenu.tsx:38
+msgid "Your Wishlist"
+msgstr "Your Wishlist"
+
+#: src/modules/wishlist/components/WishlistItemGrid.tsx:14
+#: src/modules/core/components/LayoutShared/WishlistSideMenu/WishlistSideMenuContent.tsx:20
+msgid "Your wishlist is empty"
+msgstr "Your wishlist is empty"
+
+#: src/modules/core/components/Footer/Footer.tsx:111
+msgid "YouTube"
+msgstr "YouTube"
