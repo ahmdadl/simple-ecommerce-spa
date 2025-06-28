@@ -1,7 +1,7 @@
 # Simple Ecommerce
 
 > **⚠️ Please Note**  
-> This is just a subset of the code used on [this website](https://supps.crafted-internet.com)
+> This is just a subset of the code used on [this website](https://techstore.crafted-internet.com/en)
 
 > **⚠️ Please Note**  
 > API is available on [this repo](https://github.com/ahmdadl/simple-ecommerce-api)
